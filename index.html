@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cytoscape</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <div id="everything">
+
+        <table border="0">
+            <tr id="upper">
+                <td class="left"></td>
+                <td class="right border_green">
+                    <h2>Create network</h2>
+                </td>
+            </tr>
+            <tr id="lower">
+                <td class="left">
+                    <div id="json_input_square" class="border_green">
+                        <h2>JSON file input</h2>
+                        <input type="file" class="left_button" value="Submit" id="json_input_file">
+                    </div>
+                    <div class="parameters border_blue">
+                        <h2>Parameters</h2>
+
+                        <div id="conditions" class="border_green">
+                            <div class="checkbox_input">
+                                <input type="checkbox">
+                                <span>Condition a</span>
+                            </div>
+                            <div class="checkbox_input">
+                                <input type="checkbox">
+                                <span>Condition b</span>
+                            </div>
+                            <div class="checkbox_input">
+                                <input type="checkbox">
+                                <span>Condition c</span>
+                            </div>
+                        </div>
+
+                        <div id="p_values" class="border_green">
+                            <div class="checkbox_input">
+                                <input type="checkbox">
+                                <span>P-value / Condition a</span>
+                            </div>
+                            <div class="checkbox_input">
+                                <input type="checkbox">
+                                <span>P-value / Condition b</span>
+                            </div>
+                            <div class="checkbox_input">
+                                <input type="checkbox">
+                                <span>P-value / Condition c</span>
+                            </div>
+                        </div>
+
+                        <button class="left_button">Go</button>
+                    </div>
+                </td>
+                <td class="right">
+                    <div id="graph" class="border_blue"></div>
+                    <div id="legend" class="border_blue"></div>
+                    <div id="lower_buttons">
+                        <div class="lower_button">
+                            <button>JPEG Download</button>
+                        </div>
+                        <div class="lower_button">
+                            <button>PDF Download</button>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </table>
+
+    </div>
+
+
+    <script src="js/cytoscape.min.js"></script>
+    <script src="js/index.js"></script>
+</body>
+
+</html>

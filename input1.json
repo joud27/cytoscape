@@ -1,0 +1,5258 @@
+{
+    "nodes": [
+        {
+            "data": {
+                "id": "Photosynthesis"
+            }
+        },
+        {
+            "data": {
+                "id": "21575",
+                "uniprot": "C0KZ34",
+                "log_ratio": 0.5110111,
+                "description": "Violaxanthin de-epoxidase ; Belongs to the calycin superfamily. Lipocalin family.",
+                "displayName": "C0KZ34",
+                "parent": "Photosynthesis",
+                "codeBP": "'9.1.6.2.2'"
+            },
+            "position": {
+                "x": -1135.4804654075233,
+                "y": -3184.8931388285855
+            }
+        },
+        {
+            "data": {
+                "id": "27148",
+                "uniprot": "P05349",
+                "log_ratio": 1.3390241,
+                "description": "Ribulose bisphosphate carboxylase small chain 3B, chloroplastic; RuBisCO catalyzes two reactions: the carboxylation of D- ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate. Both reactions occur simultaneously and in competition at the same active site (By similarity).",
+                "displayName": "P05349",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.2.1.1.2'"
+            },
+            "position": {
+                "x": -1016.2596192313758,
+                "y": -3491.310810032199
+            }
+        },
+        {
+            "data": {
+                "id": "28241",
+                "uniprot": "P07370",
+                "log_ratio": -0.11983299,
+                "description": "Chlorophyll a-b binding protein 1B, chloroplastic; The light-harvesting complex (LHC) functions as a light receptor, it captures and delivers excitation energy to photosystems with which it is closely associated; Belongs to the light-harvesting chlorophyll a/b- binding (LHC) protein family.",
+                "displayName": "P07370",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.1.1'"
+            },
+            "position": {
+                "x": -989.1854157401649,
+                "y": -3697.1736411479214
+            }
+        },
+        {
+            "data": {
+                "id": "28232",
+                "uniprot": "P07370",
+                "log_ratio": -0.11983299,
+                "description": "Chlorophyll a-b binding protein 1B, chloroplastic; The light-harvesting complex (LHC) functions as a light receptor, it captures and delivers excitation energy to photosystems with which it is closely associated; Belongs to the light-harvesting chlorophyll a/b- binding (LHC) protein family.",
+                "displayName": "P07370",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.1.1'"
+            },
+            "position": {
+                "x": -1027.4436554862586,
+                "y": -3734.2978782084683
+            }
+        },
+        {
+            "data": {
+                "id": "28817",
+                "uniprot": "P08706",
+                "log_ratio": 0.1264925,
+                "description": "Ribulose bisphosphate carboxylase small chain 1, chloroplastic; RuBisCO catalyzes two reactions: the carboxylation of D- ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate. Both reactions occur simultaneously and in competition at the same active site (By similarity).",
+                "displayName": "P08706",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.2.1.1.2'"
+            },
+            "position": {
+                "x": -1045.2265534354774,
+                "y": -3592.682521763156
+            }
+        },
+        {
+            "data": {
+                "id": "7397",
+                "uniprot": "P10708",
+                "log_ratio": -0.22009754,
+                "description": "Chlorophyll a-b binding protein 7, chloroplastic; The light-harvesting complex (LHC) functions as a light receptor, it captures and delivers excitation energy to photosystems with which it is closely associated; Belongs to the light-harvesting chlorophyll a/b- binding (LHC) protein family.",
+                "displayName": "P10708",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.4.1.2'"
+            },
+            "position": {
+                "x": -991.9460511161415,
+                "y": -3621.4696158793668
+            }
+        },
+        {
+            "data": {
+                "id": "16591",
+                "uniprot": "P12372",
+                "log_ratio": -0.12578201,
+                "description": "Photosystem I reaction center subunit II, chloroplastic; PsaD can form complexes with ferredoxin and ferredoxin- oxidoreductase in photosystem I (PS I) reaction center. PSAD may encode the ferredoxin-docking protein.",
+                "displayName": "P12372",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.4.2.4'"
+            },
+            "position": {
+                "x": -1082.135984892997,
+                "y": -3463.5102958110074
+            }
+        },
+        {
+            "data": {
+                "id": "13542",
+                "uniprot": "P14278",
+                "log_ratio": -0.6426735,
+                "description": "Chlorophyll a-b binding protein 4, chloroplastic; The light-harvesting complex (LHC) functions as a light receptor, it captures and delivers excitation energy to photosystems with which it is closely associated; Belongs to the light-harvesting chlorophyll a/b- binding (LHC) protein family.",
+                "displayName": "P14278",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.1.1'"
+            },
+            "position": {
+                "x": -1047.1568322135536,
+                "y": -3567.721126499484
+            }
+        },
+        {
+            "data": {
+                "id": "28694",
+                "uniprot": "P23322",
+                "log_ratio": -0.109996796,
+                "description": "33 kDa subunit of oxygen evolving system of photosystem II; Stabilizes the manganese cluster which is the primary site of water splitting.",
+                "displayName": "P23322",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.2.2.1'"
+            },
+            "position": {
+                "x": -1073.0129151298133,
+                "y": -3581.032619419406
+            }
+        },
+        {
+            "data": {
+                "id": "2045",
+                "uniprot": "P27489",
+                "log_ratio": -0.6064062,
+                "description": "Chlorophyll a-b binding protein 13, chloroplastic; The light-harvesting complex (LHC) functions as a light receptor, it captures and delivers excitation energy to photosystems with which it is closely associated; Belongs to the light-harvesting chlorophyll a/b- binding (LHC) protein family.",
+                "displayName": "P27489",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.1.1'"
+            },
+            "position": {
+                "x": -1059.0611443473426,
+                "y": -3647.9538688090543
+            }
+        },
+        {
+            "data": {
+                "id": "7252",
+                "uniprot": "P27522",
+                "log_ratio": -0.22511292,
+                "description": "Chlorophyll a-b binding protein 8, chloroplastic; The light-harvesting complex (LHC) functions as a light receptor, it captures and delivers excitation energy to photosystems with which it is closely associated; Belongs to the light-harvesting chlorophyll a/b- binding (LHC) protein family.",
+                "displayName": "P27522",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.4.1.3'"
+            },
+            "position": {
+                "x": -1096.1341175986854,
+                "y": -3516.153713169406
+            }
+        },
+        {
+            "data": {
+                "id": "30350",
+                "uniprot": "P27524",
+                "log_ratio": -0.91320896,
+                "description": "Chlorophyll a-b binding protein CP24 10A, chloroplastic ",
+                "displayName": "P27524",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.1.4'"
+            },
+            "position": {
+                "x": -1045.325251097831,
+                "y": -3561.38720315964
+            }
+        },
+        {
+            "data": {
+                "id": "30348",
+                "uniprot": "P27525",
+                "log_ratio": -0.20997238,
+                "description": "Chlorophyll a-b binding protein CP24 10B, chloroplastic ",
+                "displayName": "P27525",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.1.4'"
+            },
+            "position": {
+                "x": -1049.2554116202919,
+                "y": -3612.613429966281
+            }
+        },
+        {
+            "data": {
+                "id": "13639",
+                "uniprot": "P29795",
+                "log_ratio": -0.1532526,
+                "description": "23 kDa subunit of oxygen evolving system of photosystem II; May be involved in the regulation of photosystem II.",
+                "displayName": "P29795",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.2.2.2.1'"
+            },
+            "position": {
+                "x": -988.9889740897743,
+                "y": -3646.9438590434293
+            }
+        },
+        {
+            "data": {
+                "id": "16488",
+                "uniprot": "P54773",
+                "log_ratio": 0.52717686,
+                "description": "Photosystem II 22 kDa protein, chloroplastic; Seems to be involved in non-photochemical quenching, a process maintains the balance between dissipation and utilization of light energy to minimize generation of oxidizing molecules, thereby protecting the plant against photo-oxidative damage.",
+                "displayName": "P54773",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.5.1.2.1'"
+            },
+            "position": {
+                "x": -990.1230530692665,
+                "y": -3530.606594028781
+            }
+        },
+        {
+            "data": {
+                "id": "26660",
+                "uniprot": "P93236",
+                "log_ratio": -0.21532631,
+                "description": "Zeaxanthin epoxidase, chloroplastic; Converts zeaxanthin into antheraxanthin and subsequently violaxanthin. Involved in the epoxidation of zeaxanthin. Plays an important role in resistance to stresses, seed development and dormancy.",
+                "displayName": "P93236",
+                "parent": "Photosynthesis",
+                "codeBP": "'11.1.1.1'"
+            },
+            "position": {
+                "x": -1148.6385941459266,
+                "y": -3111.6438254740933
+            }
+        },
+        {
+            "data": {
+                "id": "31081",
+                "uniprot": "Q672Q7",
+                "log_ratio": -0.5230789,
+                "description": "Putative uncharacterized protein",
+                "displayName": "Q672Q7",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.5.2'"
+            },
+            "position": {
+                "x": -857.9386811210243,
+                "y": -3652.4153708842496
+            }
+        },
+        {
+            "data": {
+                "id": "18104",
+                "uniprot": "Q8GT30",
+                "log_ratio": 0.86100197,
+                "description": "Dihydrolipoyl dehydrogenase ",
+                "displayName": "Q8GT30",
+                "parent": "Photosynthesis",
+                "codeBP": "'4.2.7.2.3'"
+            },
+            "position": {
+                "x": -1034.693113799247,
+                "y": -3443.653572025607
+            }
+        },
+        {
+            "data": {
+                "id": "13795",
+                "uniprot": "Q9M5A8",
+                "log_ratio": -0.15823364,
+                "description": "Chaperonin 21 ; Belongs to the GroES chaperonin family.",
+                "displayName": "Q9M5A8",
+                "parent": "Photosynthesis",
+                "codeBP": "'19.1.7.2'"
+            },
+            "position": {
+                "x": -1149.9663910819618,
+                "y": -3502.495456638644
+            }
+        },
+        {
+            "data": {
+                "id": "Redox homeostasis"
+            }
+        },
+        {
+            "data": {
+                "id": "10266",
+                "uniprot": "O22493",
+                "log_ratio": 0.57767296,
+                "description": "Glutamate--cysteine ligase, chloroplastic ",
+                "displayName": "O22493",
+                "parent": "Redox homeostasis",
+                "codeBP": "'10.3.3.1.1'"
+            },
+            "position": {
+                "x": -855.6064667655555,
+                "y": -3271.6127967265347
+            }
+        },
+        {
+            "data": {
+                "id": "10273",
+                "uniprot": "O24031",
+                "log_ratio": 0.39870358,
+                "description": "Probable phospholipid hydroperoxide glutathione peroxidase; Protects cells and enzymes from oxidative damage, by catalyzing the reduction of hydrogen peroxide, lipid peroxides and organic hydroperoxide, by glutathione.",
+                "displayName": "O24031",
+                "parent": "Redox homeostasis",
+                "codeBP": "'10.4.2'"
+            },
+            "position": {
+                "x": -964.7798371268836,
+                "y": -3229.2112235453824
+            }
+        },
+        {
+            "data": {
+                "id": "3085",
+                "uniprot": "P14831",
+                "log_ratio": 0.51088333,
+                "description": "Superoxide dismutase [Cu-Zn], chloroplastic; Destroys radicals which are normally produced within the cells and which are toxic to biological systems; Belongs to the Cu-Zn superoxide dismutase family.",
+                "displayName": "P14831",
+                "parent": "Redox homeostasis",
+                "codeBP": "'10.2.2.3'"
+            },
+            "position": {
+                "x": -1046.2417244865028,
+                "y": -3247.2298240092496
+            }
+        },
+        {
+            "data": {
+                "id": "486",
+                "uniprot": "P30264",
+                "log_ratio": 0.23568726,
+                "description": "Catalase isozyme 1; Occurs in almost all aerobically respiring organisms and serves to protect cells from the toxic effects of hydrogen peroxide.",
+                "displayName": "P30264",
+                "parent": "Redox homeostasis",
+                "codeBP": "'10.2.1'"
+            },
+            "position": {
+                "x": -1046.9001984550086,
+                "y": -3231.376918735812
+            }
+        },
+        {
+            "data": {
+                "id": "4339",
+                "uniprot": "P54928",
+                "log_ratio": 0.27577496,
+                "description": "Inositol-1(or 4)-monophosphatase 3; Responsible for the provision of inositol required for synthesis of phosphatidylinositol and polyphosphoinositides.",
+                "displayName": "P54928",
+                "parent": "Redox homeostasis",
+                "codeBP": "'10.3.1.6'"
+            },
+            "position": {
+                "x": -839.9831452323524,
+                "y": -3416.3489760783414
+            }
+        },
+        {
+            "data": {
+                "id": "17759",
+                "uniprot": "Q3I5C4",
+                "log_ratio": 0.49177074,
+                "description": "Cytosolic ascorbate peroxidase 1 ; Belongs to the peroxidase family.",
+                "displayName": "Q3I5C4",
+                "parent": "Redox homeostasis",
+                "codeBP": "'10.4.1.1'"
+            },
+            "position": {
+                "x": -942.2990326835243,
+                "y": -3412.695575657199
+            }
+        },
+        {
+            "data": {
+                "id": "32166",
+                "uniprot": "Q43779",
+                "log_ratio": 0.120015144,
+                "description": "Superoxide dismutase [Cu-Zn] 2; Destroys radicals which are normally produced within the cells and which are toxic to biological systems; Belongs to the Cu-Zn superoxide dismutase family.",
+                "displayName": "Q43779",
+                "parent": "Redox homeostasis",
+                "codeBP": "'10.2.2.3'"
+            },
+            "position": {
+                "x": -1029.801138396415,
+                "y": -3241.326366367648
+            }
+        },
+        {
+            "data": {
+                "id": "17760",
+                "uniprot": "Q52QQ4",
+                "log_ratio": 0.22451591,
+                "description": "Ascorbate peroxidase ; Belongs to the peroxidase family.",
+                "displayName": "Q52QQ4",
+                "parent": "Redox homeostasis",
+                "codeBP": "'10.4.1.1'"
+            },
+            "position": {
+                "x": -1012.6121125175086,
+                "y": -3219.23925394089
+            }
+        },
+        {
+            "data": {
+                "id": "24347",
+                "uniprot": "Q6J1L7",
+                "log_ratio": -0.42006302,
+                "description": "GDP-mannose pyrophosphorylase ",
+                "displayName": "Q6J1L7",
+                "parent": "Redox homeostasis",
+                "codeBP": "'10.3.1.3'"
+            },
+            "position": {
+                "x": -827.582418913993,
+                "y": -3184.945278110812
+            }
+        },
+        {
+            "data": {
+                "id": "14288",
+                "uniprot": "Q7Y240",
+                "log_ratio": -0.107242584,
+                "description": "Thioredoxin peroxidase 1 ",
+                "displayName": "Q7Y240",
+                "parent": "Redox homeostasis",
+                "codeBP": "'10.4.3.2'"
+            },
+            "position": {
+                "x": -1056.5673050834266,
+                "y": -3350.3217048075894
+            }
+        },
+        {
+            "data": {
+                "id": "31099",
+                "uniprot": "Q9LKW0",
+                "log_ratio": -0.4949131,
+                "description": "Thioredoxin-like protein CITRX, chloroplastic; Probable thiol-disulfide oxidoreductase that may play a role in proper chloroplast development (By similarity). Negatively regulates Cf-9/Avr9-mediated cell death and defense responses; Belongs to the thioredoxin family. Plant CITRX-type subfamily.",
+                "displayName": "Q9LKW0",
+                "parent": "Redox homeostasis",
+                "codeBP": "'15.6.1.2.2.10'"
+            },
+            "position": {
+                "x": -1074.2863221122352,
+                "y": -3196.6365928080777
+            }
+        },
+        {
+            "data": {
+                "id": "20923",
+                "uniprot": "Q9THX6",
+                "log_ratio": 0.71489716,
+                "description": "Thylakoid lumenal 29 kDa protein, chloroplastic ",
+                "displayName": "Q9THX6",
+                "parent": "Redox homeostasis",
+                "codeBP": "'10.4.1.1'"
+            },
+            "position": {
+                "x": -967.3006348563758,
+                "y": -3509.357860508273
+            }
+        },
+        {
+            "data": {
+                "id": "27459",
+                "uniprot": "Q9XHH3",
+                "log_ratio": 0.17264557,
+                "description": "Catalase isozyme 2; Occurs in almost all aerobically respiring organisms and serves to protect cells from the toxic effects of hydrogen peroxide.",
+                "displayName": "Q9XHH3",
+                "parent": "Redox homeostasis",
+                "codeBP": "'10.2.1'"
+            },
+            "position": {
+                "x": -994.3766541434852,
+                "y": -3250.0508078959683
+            }
+        },
+        {
+            "data": {
+                "id": "Chromatin organisation"
+            }
+        },
+        {
+            "data": {
+                "id": "22007",
+                "uniprot": "A5YVF1",
+                "log_ratio": -0.30184174,
+                "description": "Protein SUPPRESSOR OF GENE SILENCING 3; Required for post-transcriptional gene silencing and natural virus resistance.",
+                "displayName": "A5YVF1",
+                "parent": "Chromatin organisation",
+                "codeBP": "'12.5.1.3'"
+            },
+            "position": {
+                "x": -1590.339254851493,
+                "y": -3354.920345249484
+            }
+        },
+        {
+            "data": {
+                "id": "33503",
+                "uniprot": "K4AT92",
+                "log_ratio": -0.2507038,
+                "description": "",
+                "displayName": "K4AT92",
+                "parent": "Chromatin organisation",
+                "codeBP": "'12.5.1.13'"
+            },
+            "position": {
+                "x": -1478.8281769706336,
+                "y": -3431.6486548808316
+            }
+        },
+        {
+            "data": {
+                "id": "3081",
+                "uniprot": "O65818",
+                "log_ratio": 1.1631947,
+                "description": "Histone H2B.2; Core component of nucleosome. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability. DNA accessibility is regulated via a complex set of post-translational modifications of histones, also called histone code, and nucleosome remodeling.",
+                "displayName": "O65818",
+                "parent": "Chromatin organisation",
+                "codeBP": "'12.1.3'"
+            },
+            "position": {
+                "x": -1404.0509552909461,
+                "y": -3321.5880927470425
+            }
+        },
+        {
+            "data": {
+                "id": "30806",
+                "uniprot": "P25469",
+                "log_ratio": 0.65641785,
+                "description": "Histone H2A.1; Core component of nucleosome. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability. DNA accessibility is regulated via a complex set of post-translational modifications of histones, also called histone code, and nucleosome remodeling.",
+                "displayName": "P25469",
+                "parent": "Chromatin organisation",
+                "codeBP": "'12.1.2'"
+            },
+            "position": {
+                "x": -1455.399557585868,
+                "y": -3313.930614414523
+            }
+        },
+        {
+            "data": {
+                "id": "17975",
+                "uniprot": "P35057",
+                "log_ratio": 0.6563492,
+                "description": "Histone H4; Core component of nucleosome. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability. DNA accessibility is regulated via a complex set of post-translational modifications of histones, also called histone code, and nucleosome remodeling.",
+                "displayName": "P35057",
+                "parent": "Chromatin organisation",
+                "codeBP": "'12.1.5'"
+            },
+            "position": {
+                "x": -1540.2374787284461,
+                "y": -3227.3287009623746
+            }
+        },
+        {
+            "data": {
+                "id": "2636",
+                "uniprot": "P35057",
+                "log_ratio": 0.6563492,
+                "description": "Histone H4; Core component of nucleosome. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability. DNA accessibility is regulated via a complex set of post-translational modifications of histones, also called histone code, and nucleosome remodeling.",
+                "displayName": "P35057",
+                "parent": "Chromatin organisation",
+                "codeBP": "'12.1.5'"
+            },
+            "position": {
+                "x": -1526.211782927665,
+                "y": -3271.8379325297574
+            }
+        },
+        {
+            "data": {
+                "id": "8371",
+                "uniprot": "P37218",
+                "log_ratio": -0.19420052,
+                "description": "Histone H1; Histones H1 are necessary for the condensation of nucleosome chains into higher-order structures.",
+                "displayName": "P37218",
+                "parent": "Chromatin organisation",
+                "codeBP": "'12.1.1'"
+            },
+            "position": {
+                "x": -1930.9939484550086,
+                "y": -3299.023471775363
+            }
+        },
+        {
+            "data": {
+                "id": "31795",
+                "uniprot": "Q944N1",
+                "log_ratio": 0.13249779,
+                "description": "Protein LIKE HETEROCHROMATIN PROTEIN 1; Structural component of heterochromatin involved in gene repression. Recognizes and binds histone H3 tails methylated at 'Lys-9', leading to epigenetic repression.",
+                "displayName": "Q944N1",
+                "parent": "Chromatin organisation",
+                "codeBP": "'12.3.5.1.2'"
+            },
+            "position": {
+                "x": -1483.1619172050086,
+                "y": -3135.66161722214
+            }
+        },
+        {
+            "data": {
+                "id": "RNA processing"
+            }
+        },
+        {
+            "data": {
+                "id": "7669",
+                "uniprot": "K4CRG8",
+                "log_ratio": 0.6186762,
+                "description": "",
+                "displayName": "K4CRG8",
+                "parent": "RNA processing",
+                "codeBP": "'17.1.1.2.1.5.4'"
+            },
+            "position": {
+                "x": -1278.4243683768836,
+                "y": -3461.9100684550504
+            }
+        },
+        {
+            "data": {
+                "id": "2125",
+                "uniprot": "K4DCF2",
+                "log_ratio": -0.13604927,
+                "description": "",
+                "displayName": "K4DCF2",
+                "parent": "RNA processing",
+                "codeBP": "'16.2.2.1.2'"
+            },
+            "position": {
+                "x": -1369.775534148368,
+                "y": -3978.181301060031
+            }
+        },
+        {
+            "data": {
+                "id": "17490",
+                "uniprot": "Q53U41",
+                "log_ratio": -0.2541647,
+                "description": "Similar to u1 small nuclear ribonucleoprotein C; Component of the spliceosomal U1 snRNP, which is essential for recognition of the pre-mRNA 5' splice-site and the subsequent assembly of the spliceosome. U1-C is directly involved in initial 5' splice-site recognition for both constitutive and regulated alternative splicing. The interaction with the 5' splice-site seems to precede base-pairing between the pre-mRNA and the U1 snRNA. Stimulates commitment or early (E) complex formation by stabilizing the base pairing of the 5' end of the U1 snRNA and the 5' splice-site region.",
+                "displayName": "Q53U41",
+                "parent": "RNA processing",
+                "codeBP": "'16.4.1.1.3'"
+            },
+            "position": {
+                "x": -1096.2385697318641,
+                "y": -3790.1834067729214
+            }
+        },
+        {
+            "data": {
+                "id": "Protein biosynthesis"
+            }
+        },
+        {
+            "data": {
+                "id": "33564",
+                "uniprot": "A1X876",
+                "log_ratio": 0.5637741,
+                "description": "Putative L19 ribosomal protein ",
+                "displayName": "A1X876",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.7.1.1.17'"
+            },
+            "position": {
+                "x": -1329.5713410331336,
+                "y": -3534.794139805148
+            }
+        },
+        {
+            "data": {
+                "id": "14601",
+                "uniprot": "B3IWG3",
+                "log_ratio": 0.55418396,
+                "description": "30S ribosomal protein S16 ",
+                "displayName": "B3IWG3",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.7.1.2.14'"
+            },
+            "position": {
+                "x": -1264.443747038993,
+                "y": -3587.5443229106168
+            }
+        },
+        {
+            "data": {
+                "id": "10056",
+                "uniprot": "K4B017",
+                "log_ratio": 0.27233982,
+                "description": "Uncharacterized protein; Ubiquitin ",
+                "displayName": "K4B017",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.1.2.1.43'"
+            },
+            "position": {
+                "x": -1391.232321257743,
+                "y": -3381.7264422801236
+            }
+        },
+        {
+            "data": {
+                "id": "24755",
+                "uniprot": "K4B017",
+                "log_ratio": 0.27233982,
+                "description": "Ubiquitin ",
+                "displayName": "K4B017",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.1.2.1.43'"
+            },
+            "position": {
+                "x": -1377.5725922538368,
+                "y": -3378.3388556864957
+            }
+        },
+        {
+            "data": {
+                "id": "22547",
+                "uniprot": "K4BPD6",
+                "log_ratio": -0.22286797,
+                "description": "Protein pelota homolog; May function in recognizing stalled ribosomes and triggering endonucleolytic cleavage of the mRNA, a mechanism to release non-functional ribosomes and degrade damaged mRNAs.",
+                "displayName": "K4BPD6",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.3.3.1.1'"
+            },
+            "position": {
+                "x": -1285.8401551200477,
+                "y": -3589.575435581515
+            }
+        },
+        {
+            "data": {
+                "id": "22193",
+                "uniprot": "K4BQD9",
+                "log_ratio": -0.21225071,
+                "description": "",
+                "displayName": "K4BQD9",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.7.1.1.27'"
+            },
+            "position": {
+                "x": -1287.677374358329,
+                "y": -3502.5084723857144
+            }
+        },
+        {
+            "data": {
+                "id": "22518",
+                "uniprot": "K4BQD9",
+                "log_ratio": -0.21225071,
+                "description": "",
+                "displayName": "K4BQD9",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.7.1.1.27'"
+            },
+            "position": {
+                "x": -1269.853643889579,
+                "y": -3498.6422080424527
+            }
+        },
+        {
+            "data": {
+                "id": "17652",
+                "uniprot": "K4C3A4",
+                "log_ratio": 0.42205143,
+                "description": "",
+                "displayName": "K4C3A4",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.1.2.1.44'"
+            },
+            "position": {
+                "x": 714.9008269356164,
+                "y": 1756.774653187098
+            }
+        },
+        {
+            "data": {
+                "id": "12511",
+                "uniprot": "K4C3A4",
+                "log_ratio": 0.42205143,
+                "description": "",
+                "displayName": "K4C3A4",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.1.2.1.44'"
+            },
+            "position": {
+                "x": 514.9008269356164,
+                "y": 3356.774653187098
+            }
+        },
+        {
+            "data": {
+                "id": "15551",
+                "uniprot": "K4C998",
+                "log_ratio": 0.16109371,
+                "description": "",
+                "displayName": "K4C998",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.1.3.1.12'"
+            },
+            "position": {
+                "x": -1303.7795319511024,
+                "y": -3449.1464995768765
+            }
+        },
+        {
+            "data": {
+                "id": "15550",
+                "uniprot": "K4C998",
+                "log_ratio": 0.16109371,
+                "description": "",
+                "displayName": "K4C998",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.1.3.1.12'"
+            },
+            "position": {
+                "x": -1340.6246857596961,
+                "y": -3472.969631138156
+            }
+        },
+        {
+            "data": {
+                "id": "27119",
+                "uniprot": "K4CG62",
+                "log_ratio": -0.14445686,
+                "description": "",
+                "displayName": "K4CG62",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.1.2.1.11'"
+            },
+            "position": {
+                "x": -1234.043859954032,
+                "y": -3448.031719150851
+            }
+        },
+        {
+            "data": {
+                "id": "2097",
+                "uniprot": "K4CG62",
+                "log_ratio": -0.14445686,
+                "description": "",
+                "displayName": "K4CG62",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.1.2.1.11'"
+            },
+            "position": {
+                "x": -1360.1756043387977,
+                "y": -3516.7830619242886
+            }
+        },
+        {
+            "data": {
+                "id": "5957",
+                "uniprot": "K4CND1",
+                "log_ratio": 0.32494354,
+                "description": "",
+                "displayName": "K4CND1",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.1.2.1.40'"
+            },
+            "position": {
+                "x": -1333.3935761405555,
+                "y": -3427.81710046799
+            }
+        },
+        {
+            "data": {
+                "id": "12271",
+                "uniprot": "K4CND1",
+                "log_ratio": 0.32494354,
+                "description": "",
+                "displayName": "K4CND1",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.1.2.1.40'"
+            },
+            "position": {
+                "x": -1288.4904084159461,
+                "y": -3456.608432712863
+            }
+        },
+        {
+            "data": {
+                "id": "7816",
+                "uniprot": "K4CUW3",
+                "log_ratio": 0.21022034,
+                "description": "Ribosomal protein L17 ; Belongs to the universal ribosomal protein uL14 family.",
+                "displayName": "K4CUW3",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.1.2.1.23'"
+            },
+            "position": {
+                "x": -1356.5720887137977,
+                "y": -3533.5550040629605
+            }
+        },
+        {
+            "data": {
+                "id": "31425",
+                "uniprot": "K4CYU9",
+                "log_ratio": -0.28714848,
+                "description": "Cytoplasmic ribosomal protein S13 ; Belongs to the universal ribosomal protein uS15 family.",
+                "displayName": "K4CYU9",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.1.3.1.14'"
+            },
+            "position": {
+                "x": -1237.4406495048133,
+                "y": -3453.229511204074
+            }
+        },
+        {
+            "data": {
+                "id": "2696",
+                "uniprot": "K4CYU9",
+                "log_ratio": -0.28714848,
+                "description": "Cytoplasmic ribosomal protein S13 ; Belongs to the universal ribosomal protein uS15 family.",
+                "displayName": "K4CYU9",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.1.3.1.14'"
+            },
+            "position": {
+                "x": -1332.235266204032,
+                "y": -3496.55094522507
+            }
+        },
+        {
+            "data": {
+                "id": "5054",
+                "uniprot": "K4D3L7",
+                "log_ratio": -0.12770939,
+                "description": "",
+                "displayName": "K4D3L7",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.1.3.1.24'"
+            },
+            "position": {
+                "x": -1271.2642273856727,
+                "y": -3474.931919040988
+            }
+        },
+        {
+            "data": {
+                "id": "3971",
+                "uniprot": "K4D762",
+                "log_ratio": -0.8720207,
+                "description": "",
+                "displayName": "K4D762",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.7.2.2.7'"
+            },
+            "position": {
+                "x": -1280.4726624442665,
+                "y": -3506.298404636691
+            }
+        },
+        {
+            "data": {
+                "id": "2879",
+                "uniprot": "K4DAA0",
+                "log_ratio": 0.23486423,
+                "description": "",
+                "displayName": "K4DAA0",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.1.2.1.12'"
+            },
+            "position": {
+                "x": -1251.6572174979774,
+                "y": -3424.6272735026578
+            }
+        },
+        {
+            "data": {
+                "id": "7362",
+                "uniprot": "P29766",
+                "log_ratio": 0.22679234,
+                "description": "60S ribosomal protein L8 ",
+                "displayName": "P29766",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.1.2.1.7'"
+            },
+            "position": {
+                "x": -1298.0085816337196,
+                "y": -3558.324428501437
+            }
+        },
+        {
+            "data": {
+                "id": "17913",
+                "uniprot": "P49215",
+                "log_ratio": 0.1255598,
+                "description": "40S ribosomal protein S17 ; Belongs to the eukaryotic ribosomal protein eS17 family.",
+                "displayName": "P49215",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.1.3.1.19'"
+            },
+            "position": {
+                "x": -1350.7078614188758,
+                "y": -3441.1202163127164
+            }
+        },
+        {
+            "data": {
+                "id": "33631",
+                "uniprot": "Q2MI54",
+                "log_ratio": -0.8720207,
+                "description": "30S ribosomal protein S7, chloroplastic; One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the head domain of the 30S subunit.",
+                "displayName": "Q2MI54",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.7.2.2.7'"
+            },
+            "position": {
+                "x": -1258.9292969657508,
+                "y": -3543.207454624484
+            }
+        },
+        {
+            "data": {
+                "id": "15369",
+                "uniprot": "Q53U38",
+                "log_ratio": 0.1545515,
+                "description": "Similar to 60S ribosomal protein L35 ",
+                "displayName": "Q53U38",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.1.2.1.35'"
+            },
+            "position": {
+                "x": -1315.1648316337196,
+                "y": -3460.6008033183316
+            }
+        },
+        {
+            "data": {
+                "id": "15620",
+                "uniprot": "Q672Q2",
+                "log_ratio": -0.1562748,
+                "description": "Chloroplast-specific ribosomal protein ",
+                "displayName": "Q672Q2",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.7.2.3.1'"
+            },
+            "position": {
+                "x": -1198.4401612235633,
+                "y": -3536.6148490336636
+            }
+        },
+        {
+            "data": {
+                "id": "33301",
+                "uniprot": "Q9AXQ4",
+                "log_ratio": 0.22306347,
+                "description": "Eukaryotic translation initiation factor 5A-3; The precise role of eIF-5A in protein biosynthesis is not known but it functions by promoting the formation of the first peptide bond.",
+                "displayName": "Q9AXQ4",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.5.3.1'"
+            },
+            "position": {
+                "x": -1229.0272049857704,
+                "y": -3420.5353011515836
+            }
+        },
+        {
+            "data": {
+                "id": "14911",
+                "uniprot": "Q9AXQ5",
+                "log_ratio": -0.213974,
+                "description": "Eukaryotic translation initiation factor 5A-2; The precise role of eIF-5A in protein biosynthesis is not known but it functions by promoting the formation of the first peptide bond.",
+                "displayName": "Q9AXQ5",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.5.3.1'"
+            },
+            "position": {
+                "x": -1308.2905640555946,
+                "y": -3379.1946639445523
+            }
+        },
+        {
+            "data": {
+                "id": "23668",
+                "uniprot": "Q9AXQ6",
+                "log_ratio": -0.16018105,
+                "description": "Eukaryotic translation initiation factor 5A-1; The precise role of eIF-5A in protein biosynthesis is not known but it functions by promoting the formation of the first peptide bond.",
+                "displayName": "Q9AXQ6",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.5.3.1'"
+            },
+            "position": {
+                "x": -1197.4952225638954,
+                "y": -3460.0728301432828
+            }
+        },
+        {
+            "data": {
+                "id": "14482",
+                "uniprot": "Q9FUZ0",
+                "log_ratio": -0.13457966,
+                "description": "Peptide deformylase 1A, chloroplastic; Removes the formyl group from the N-terminal Met of newly synthesized proteins; Belongs to the polypeptide deformylase family.",
+                "displayName": "Q9FUZ0",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'17.7.6.1'"
+            },
+            "position": {
+                "x": -1246.77013253704,
+                "y": -3411.7239608195523
+            }
+        },
+        {
+            "data": {
+                "id": "Lipid metabolism"
+            }
+        },
+        {
+            "data": {
+                "id": "11330",
+                "uniprot": "C0LIR3",
+                "log_ratio": -0.5654144,
+                "description": "UDP-sulfoquinovose synthase ",
+                "displayName": "C0LIR3",
+                "parent": "Lipid metabolism",
+                "codeBP": "'5.3.6'"
+            },
+            "position": {
+                "x": -884.7040162040321,
+                "y": -3238.9104422953824
+            }
+        },
+        {
+            "data": {
+                "id": "1077",
+                "uniprot": "P37222",
+                "log_ratio": -0.36441422,
+                "description": "NADP-dependent malic enzyme, chloroplastic; The chloroplastic ME isoform decarboxylates malate shuttled from neighboring mesophyll cells. The CO(2) released is then refixed by ribulose-bisphosphate carboxylase. This pathway eliminates the photorespiratory loss of CO(2) that occurs in most plants.",
+                "displayName": "P37222",
+                "parent": "Lipid metabolism",
+                "codeBP": "'5.1.1.4'"
+            },
+            "position": {
+                "x": -925.7244629813758,
+                "y": -3403.428440990756
+            }
+        },
+        {
+            "data": {
+                "id": "23330",
+                "uniprot": "Q5WM33",
+                "log_ratio": -0.7618141,
+                "description": "Alpha-dioxygenase 2; Alpha-dioxygenase 2 enzyme ",
+                "displayName": "Q5WM33",
+                "parent": "Lipid metabolism",
+                "codeBP": "'5.7.3.4.1'"
+            },
+            "position": {
+                "x": -711.4733185721961,
+                "y": -3059.7217368510464
+            }
+        },
+        {
+            "data": {
+                "id": "23393",
+                "uniprot": "Q672Q9",
+                "log_ratio": -0.53327274,
+                "description": "Acyl carrier protein; Carrier of the growing fatty acid chain in fatty acid biosynthesis.",
+                "displayName": "Q672Q9",
+                "parent": "Lipid metabolism",
+                "codeBP": "'5.1.5.1'"
+            },
+            "position": {
+                "x": -1122.4142708732215,
+                "y": -3511.570003452609
+            }
+        },
+        {
+            "data": {
+                "id": "16771",
+                "uniprot": "Q7X7I9",
+                "log_ratio": -0.25246525,
+                "description": "Omega-3 fatty acid desaturase ",
+                "displayName": "Q7X7I9",
+                "parent": "Lipid metabolism",
+                "codeBP": "'5.1.7.3'"
+            },
+            "position": {
+                "x": -945.0496277762977,
+                "y": -3370.787080707858
+            }
+        },
+        {
+            "data": {
+                "id": "23773",
+                "uniprot": "Q9M6A3",
+                "log_ratio": 3.8592029,
+                "description": "Alternaria stem canker resistance protein 1; Mediates resistance to sphinganine-analog mycotoxins (SAMs) by restoring the sphingolipid biosynthesis. Could salvage the transport of GPI-anchored proteins from the endoplasmic reticulum to the Golgi apparatus in ceramides-depleted cells after SAM exposure.",
+                "displayName": "Q9M6A3",
+                "parent": "Lipid metabolism",
+                "codeBP": "'5.4.5'"
+            },
+            "position": {
+                "x": -832.9076752616493,
+                "y": -3133.570278110812
+            }
+        },
+        {
+            "data": {
+                "id": "16017",
+                "uniprot": "Q9SDZ6",
+                "log_ratio": 0.74768543,
+                "description": "Phospholipase D ",
+                "displayName": "Q9SDZ6",
+                "parent": "Lipid metabolism",
+                "codeBP": "'5.7.2.4.1'"
+            },
+            "position": {
+                "x": -976.8704285575477,
+                "y": -3024.53954690964
+            }
+        },
+        {
+            "data": {
+                "id": "11740",
+                "uniprot": "K4BMT0",
+                "log_ratio": -0.21361446,
+                "description": "Ubiquitin-conjugating enzyme family protein",
+                "displayName": "K4BMT0",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'35.2'"
+            },
+            "position": {
+                "x": -1610.5555024100868,
+                "y": -3496.0241584208707
+            }
+        },
+        {
+            "data": {
+                "id": "23105",
+                "uniprot": "K4BMT0",
+                "log_ratio": -0.21361446,
+                "description": "Ubiquitin-conjugating enzyme family protein",
+                "displayName": "K4BMT0",
+                "parent": "Protein biosynthesis",
+                "codeBP": "'35.2'"
+            },
+            "position": {
+                "x": -1610.5555024100868,
+                "y": -3496.0241584208707
+            }
+        }
+    ],
+    "edges": [
+        {
+            "data": {
+                "id": "189484",
+                "source": "14288",
+                "target": "3085",
+                "stringdb_score": 0.653
+            }
+        },
+        {
+            "data": {
+                "id": "189485",
+                "source": "14288",
+                "target": "10273",
+                "stringdb_score": 0.607
+            }
+        },
+        {
+            "data": {
+                "id": "189479",
+                "source": "14288",
+                "target": "486",
+                "stringdb_score": 0.746
+            }
+        },
+        {
+            "data": {
+                "id": "47169",
+                "source": "3971",
+                "target": "2879",
+                "stringdb_score": 0.982
+            }
+        },
+        {
+            "data": {
+                "id": "47145",
+                "source": "3971",
+                "target": "2696",
+                "stringdb_score": 0.988
+            }
+        },
+        {
+            "data": {
+                "id": "47137",
+                "source": "3971",
+                "target": "2097",
+                "stringdb_score": 0.989
+            }
+        },
+        {
+            "data": {
+                "id": "114639",
+                "source": "10056",
+                "target": "3081",
+                "stringdb_score": 0.61
+            }
+        },
+        {
+            "data": {
+                "id": "114635",
+                "source": "10056",
+                "target": "2636",
+                "stringdb_score": 0.615
+            }
+        },
+        {
+            "data": {
+                "id": "114601",
+                "source": "10056",
+                "target": "7669",
+                "stringdb_score": 0.697
+            }
+        },
+        {
+            "data": {
+                "id": "114529",
+                "source": "10056",
+                "target": "2879",
+                "stringdb_score": 0.863
+            }
+        },
+        {
+            "data": {
+                "id": "114519",
+                "source": "10056",
+                "target": "7816",
+                "stringdb_score": 0.918
+            }
+        },
+        {
+            "data": {
+                "id": "114516",
+                "source": "10056",
+                "target": "2696",
+                "stringdb_score": 0.927
+            }
+        },
+        {
+            "data": {
+                "id": "114512",
+                "source": "10056",
+                "target": "2097",
+                "stringdb_score": 0.938
+            }
+        },
+        {
+            "data": {
+                "id": "114493",
+                "source": "10056",
+                "target": "7362",
+                "stringdb_score": 0.954
+            }
+        },
+        {
+            "data": {
+                "id": "114488",
+                "source": "10056",
+                "target": "5957",
+                "stringdb_score": 0.958
+            }
+        },
+        {
+            "data": {
+                "id": "114485",
+                "source": "10056",
+                "target": "5054",
+                "stringdb_score": 0.961
+            }
+        },
+        {
+            "data": {
+                "id": "114448",
+                "source": "10056",
+                "target": "3971",
+                "stringdb_score": 0.98
+            }
+        },
+        {
+            "data": {
+                "id": "66296",
+                "source": "5957",
+                "target": "2879",
+                "stringdb_score": 0.921
+            }
+        },
+        {
+            "data": {
+                "id": "66280",
+                "source": "5957",
+                "target": "5054",
+                "stringdb_score": 0.962
+            }
+        },
+        {
+            "data": {
+                "id": "66278",
+                "source": "5957",
+                "target": "2097",
+                "stringdb_score": 0.965
+            }
+        },
+        {
+            "data": {
+                "id": "66263",
+                "source": "5957",
+                "target": "2696",
+                "stringdb_score": 0.977
+            }
+        },
+        {
+            "data": {
+                "id": "66251",
+                "source": "5957",
+                "target": "3971",
+                "stringdb_score": 0.983
+            }
+        },
+        {
+            "data": {
+                "id": "510992",
+                "source": "24347",
+                "target": "10266",
+                "stringdb_score": 0.403
+            }
+        },
+        {
+            "data": {
+                "id": "510971",
+                "source": "24347",
+                "target": "17760",
+                "stringdb_score": 0.471
+            }
+        },
+        {
+            "data": {
+                "id": "510951",
+                "source": "24347",
+                "target": "4339",
+                "stringdb_score": 0.603
+            }
+        },
+        {
+            "data": {
+                "id": "306622",
+                "source": "18104",
+                "target": "486",
+                "stringdb_score": 0.436
+            }
+        },
+        {
+            "data": {
+                "id": "419088",
+                "source": "22193",
+                "target": "7362",
+                "stringdb_score": 0.623
+            }
+        },
+        {
+            "data": {
+                "id": "419091",
+                "source": "22193",
+                "target": "2879",
+                "stringdb_score": 0.62
+            }
+        },
+        {
+            "data": {
+                "id": "419058",
+                "source": "22193",
+                "target": "5054",
+                "stringdb_score": 0.684
+            }
+        },
+        {
+            "data": {
+                "id": "419061",
+                "source": "22193",
+                "target": "14911",
+                "stringdb_score": 0.671
+            }
+        },
+        {
+            "data": {
+                "id": "419010",
+                "source": "22193",
+                "target": "2097",
+                "stringdb_score": 0.729
+            }
+        },
+        {
+            "data": {
+                "id": "419002",
+                "source": "22193",
+                "target": "7816",
+                "stringdb_score": 0.736
+            }
+        },
+        {
+            "data": {
+                "id": "418993",
+                "source": "22193",
+                "target": "14482",
+                "stringdb_score": 0.747
+            }
+        },
+        {
+            "data": {
+                "id": "418990",
+                "source": "22193",
+                "target": "2696",
+                "stringdb_score": 0.748
+            }
+        },
+        {
+            "data": {
+                "id": "418971",
+                "source": "22193",
+                "target": "15620",
+                "stringdb_score": 0.755
+            }
+        },
+        {
+            "data": {
+                "id": "418948",
+                "source": "22193",
+                "target": "15369",
+                "stringdb_score": 0.788
+            }
+        },
+        {
+            "data": {
+                "id": "418912",
+                "source": "22193",
+                "target": "15551",
+                "stringdb_score": 0.832
+            }
+        },
+        {
+            "data": {
+                "id": "418911",
+                "source": "22193",
+                "target": "15550",
+                "stringdb_score": 0.832
+            }
+        },
+        {
+            "data": {
+                "id": "418849",
+                "source": "22193",
+                "target": "3971",
+                "stringdb_score": 0.991
+            }
+        },
+        {
+            "data": {
+                "id": "418851",
+                "source": "22193",
+                "target": "14601",
+                "stringdb_score": 0.982
+            }
+        },
+        {
+            "data": {
+                "id": "750720",
+                "source": "30350",
+                "target": "23393",
+                "stringdb_score": 0.438
+            }
+        },
+        {
+            "data": {
+                "id": "750639",
+                "source": "30350",
+                "target": "20923",
+                "stringdb_score": 0.77
+            }
+        },
+        {
+            "data": {
+                "id": "750628",
+                "source": "30350",
+                "target": "30348",
+                "stringdb_score": 0.802
+            }
+        },
+        {
+            "data": {
+                "id": "750633",
+                "source": "30350",
+                "target": "28232",
+                "stringdb_score": 0.792
+            }
+        },
+        {
+            "data": {
+                "id": "750634",
+                "source": "30350",
+                "target": "28241",
+                "stringdb_score": 0.792
+            }
+        },
+        {
+            "data": {
+                "id": "750594",
+                "source": "30350",
+                "target": "7252",
+                "stringdb_score": 0.889
+            }
+        },
+        {
+            "data": {
+                "id": "750604",
+                "source": "30350",
+                "target": "7397",
+                "stringdb_score": 0.867
+            }
+        },
+        {
+            "data": {
+                "id": "750579",
+                "source": "30350",
+                "target": "13639",
+                "stringdb_score": 0.92
+            }
+        },
+        {
+            "data": {
+                "id": "750575",
+                "source": "30350",
+                "target": "16591",
+                "stringdb_score": 0.935
+            }
+        },
+        {
+            "data": {
+                "id": "750584",
+                "source": "30350",
+                "target": "13542",
+                "stringdb_score": 0.908
+            }
+        },
+        {
+            "data": {
+                "id": "750563",
+                "source": "30350",
+                "target": "2045",
+                "stringdb_score": 0.972
+            }
+        },
+        {
+            "data": {
+                "id": "750561",
+                "source": "30350",
+                "target": "28694",
+                "stringdb_score": 0.978
+            }
+        },
+        {
+            "data": {
+                "id": "750551",
+                "source": "30348",
+                "target": "23393",
+                "stringdb_score": 0.438
+            }
+        },
+        {
+            "data": {
+                "id": "750473",
+                "source": "30348",
+                "target": "20923",
+                "stringdb_score": 0.77
+            }
+        },
+        {
+            "data": {
+                "id": "750461",
+                "source": "30348",
+                "target": "28232",
+                "stringdb_score": 0.801
+            }
+        },
+        {
+            "data": {
+                "id": "750462",
+                "source": "30348",
+                "target": "28241",
+                "stringdb_score": 0.801
+            }
+        },
+        {
+            "data": {
+                "id": "750418",
+                "source": "30348",
+                "target": "7252",
+                "stringdb_score": 0.895
+            }
+        },
+        {
+            "data": {
+                "id": "750427",
+                "source": "30348",
+                "target": "13639",
+                "stringdb_score": 0.875
+            }
+        },
+        {
+            "data": {
+                "id": "750424",
+                "source": "30348",
+                "target": "16591",
+                "stringdb_score": 0.88
+            }
+        },
+        {
+            "data": {
+                "id": "750425",
+                "source": "30348",
+                "target": "7397",
+                "stringdb_score": 0.877
+            }
+        },
+        {
+            "data": {
+                "id": "750399",
+                "source": "30348",
+                "target": "28694",
+                "stringdb_score": 0.969
+            }
+        },
+        {
+            "data": {
+                "id": "750413",
+                "source": "30348",
+                "target": "13542",
+                "stringdb_score": 0.909
+            }
+        },
+        {
+            "data": {
+                "id": "750397",
+                "source": "30348",
+                "target": "2045",
+                "stringdb_score": 0.973
+            }
+        },
+        {
+            "data": {
+                "id": "83765",
+                "source": "7816",
+                "target": "7669",
+                "stringdb_score": 0.762
+            }
+        },
+        {
+            "data": {
+                "id": "83747",
+                "source": "7816",
+                "target": "2879",
+                "stringdb_score": 0.829
+            }
+        },
+        {
+            "data": {
+                "id": "83722",
+                "source": "7816",
+                "target": "5054",
+                "stringdb_score": 0.91
+            }
+        },
+        {
+            "data": {
+                "id": "83716",
+                "source": "7816",
+                "target": "5957",
+                "stringdb_score": 0.928
+            }
+        },
+        {
+            "data": {
+                "id": "83710",
+                "source": "7816",
+                "target": "2696",
+                "stringdb_score": 0.939
+            }
+        },
+        {
+            "data": {
+                "id": "83704",
+                "source": "7816",
+                "target": "2097",
+                "stringdb_score": 0.945
+            }
+        },
+        {
+            "data": {
+                "id": "83682",
+                "source": "7816",
+                "target": "7362",
+                "stringdb_score": 0.963
+            }
+        },
+        {
+            "data": {
+                "id": "83665",
+                "source": "7816",
+                "target": "3971",
+                "stringdb_score": 0.988
+            }
+        },
+        {
+            "data": {
+                "id": "659202",
+                "source": "28241",
+                "target": "16488",
+                "stringdb_score": 0.609
+            }
+        },
+        {
+            "data": {
+                "id": "659190",
+                "source": "28241",
+                "target": "7397",
+                "stringdb_score": 0.767
+            }
+        },
+        {
+            "data": {
+                "id": "659197",
+                "source": "28241",
+                "target": "16591",
+                "stringdb_score": 0.696
+            }
+        },
+        {
+            "data": {
+                "id": "659192",
+                "source": "28241",
+                "target": "2045",
+                "stringdb_score": 0.758
+            }
+        },
+        {
+            "data": {
+                "id": "659191",
+                "source": "28241",
+                "target": "13639",
+                "stringdb_score": 0.761
+            }
+        },
+        {
+            "data": {
+                "id": "659174",
+                "source": "28241",
+                "target": "7252",
+                "stringdb_score": 0.886
+            }
+        },
+        {
+            "data": {
+                "id": "659173",
+                "source": "28241",
+                "target": "28232",
+                "stringdb_score": 0.904
+            }
+        },
+        {
+            "data": {
+                "id": "659177",
+                "source": "28241",
+                "target": "13542",
+                "stringdb_score": 0.849
+            }
+        },
+        {
+            "data": {
+                "id": "658853",
+                "source": "28232",
+                "target": "16488",
+                "stringdb_score": 0.609
+            }
+        },
+        {
+            "data": {
+                "id": "658848",
+                "source": "28232",
+                "target": "16591",
+                "stringdb_score": 0.696
+            }
+        },
+        {
+            "data": {
+                "id": "658833",
+                "source": "28232",
+                "target": "13542",
+                "stringdb_score": 0.849
+            }
+        },
+        {
+            "data": {
+                "id": "658843",
+                "source": "28232",
+                "target": "2045",
+                "stringdb_score": 0.758
+            }
+        },
+        {
+            "data": {
+                "id": "658842",
+                "source": "28232",
+                "target": "13639",
+                "stringdb_score": 0.761
+            }
+        },
+        {
+            "data": {
+                "id": "658841",
+                "source": "28232",
+                "target": "7397",
+                "stringdb_score": 0.767
+            }
+        },
+        {
+            "data": {
+                "id": "658830",
+                "source": "28232",
+                "target": "7252",
+                "stringdb_score": 0.886
+            }
+        },
+        {
+            "data": {
+                "id": "300319",
+                "source": "17975",
+                "target": "3081",
+                "stringdb_score": 0.601
+            }
+        },
+        {
+            "data": {
+                "id": "300312",
+                "source": "17975",
+                "target": "10056",
+                "stringdb_score": 0.615
+            }
+        },
+        {
+            "data": {
+                "id": "300266",
+                "source": "17975",
+                "target": "2636",
+                "stringdb_score": 0.904
+            }
+        },
+        {
+            "data": {
+                "id": "297437",
+                "source": "17913",
+                "target": "13795",
+                "stringdb_score": 0.733
+            }
+        },
+        {
+            "data": {
+                "id": "297343",
+                "source": "17913",
+                "target": "14911",
+                "stringdb_score": 0.923
+            }
+        },
+        {
+            "data": {
+                "id": "297320",
+                "source": "17913",
+                "target": "7669",
+                "stringdb_score": 0.946
+            }
+        },
+        {
+            "data": {
+                "id": "297284",
+                "source": "17913",
+                "target": "2879",
+                "stringdb_score": 0.975
+            }
+        },
+        {
+            "data": {
+                "id": "297273",
+                "source": "17913",
+                "target": "15369",
+                "stringdb_score": 0.981
+            }
+        },
+        {
+            "data": {
+                "id": "297277",
+                "source": "17913",
+                "target": "7816",
+                "stringdb_score": 0.979
+            }
+        },
+        {
+            "data": {
+                "id": "297250",
+                "source": "17913",
+                "target": "7362",
+                "stringdb_score": 0.984
+            }
+        },
+        {
+            "data": {
+                "id": "297254",
+                "source": "17913",
+                "target": "10056",
+                "stringdb_score": 0.984
+            }
+        },
+        {
+            "data": {
+                "id": "297237",
+                "source": "17913",
+                "target": "2097",
+                "stringdb_score": 0.985
+            }
+        },
+        {
+            "data": {
+                "id": "297204",
+                "source": "17913",
+                "target": "5054",
+                "stringdb_score": 0.988
+            }
+        },
+        {
+            "data": {
+                "id": "297174",
+                "source": "17913",
+                "target": "2696",
+                "stringdb_score": 0.99
+            }
+        },
+        {
+            "data": {
+                "id": "297154",
+                "source": "17913",
+                "target": "3971",
+                "stringdb_score": 0.991
+            }
+        },
+        {
+            "data": {
+                "id": "297130",
+                "source": "17913",
+                "target": "15550",
+                "stringdb_score": 0.992
+            }
+        },
+        {
+            "data": {
+                "id": "297132",
+                "source": "17913",
+                "target": "15551",
+                "stringdb_score": 0.992
+            }
+        },
+        {
+            "data": {
+                "id": "297119",
+                "source": "17913",
+                "target": "5957",
+                "stringdb_score": 0.993
+            }
+        },
+        {
+            "data": {
+                "id": "297123",
+                "source": "17913",
+                "target": "12271",
+                "stringdb_score": 0.993
+            }
+        },
+        {
+            "data": {
+                "id": "81037",
+                "source": "7669",
+                "target": "7362",
+                "stringdb_score": 0.715
+            }
+        },
+        {
+            "data": {
+                "id": "81027",
+                "source": "7669",
+                "target": "2879",
+                "stringdb_score": 0.737
+            }
+        },
+        {
+            "data": {
+                "id": "81017",
+                "source": "7669",
+                "target": "2097",
+                "stringdb_score": 0.814
+            }
+        },
+        {
+            "data": {
+                "id": "81004",
+                "source": "7669",
+                "target": "5054",
+                "stringdb_score": 0.846
+            }
+        },
+        {
+            "data": {
+                "id": "80963",
+                "source": "7669",
+                "target": "5957",
+                "stringdb_score": 0.92
+            }
+        },
+        {
+            "data": {
+                "id": "80941",
+                "source": "7669",
+                "target": "2696",
+                "stringdb_score": 0.954
+            }
+        },
+        {
+            "data": {
+                "id": "80930",
+                "source": "7669",
+                "target": "3971",
+                "stringdb_score": 0.981
+            }
+        },
+        {
+            "data": {
+                "id": "181995",
+                "source": "13795",
+                "target": "7669",
+                "stringdb_score": 0.607
+            }
+        },
+        {
+            "data": {
+                "id": "181970",
+                "source": "13795",
+                "target": "3971",
+                "stringdb_score": 0.776
+            }
+        },
+        {
+            "data": {
+                "id": "870840",
+                "source": "32166",
+                "target": "23773",
+                "stringdb_score": 0.501
+            }
+        },
+        {
+            "data": {
+                "id": "870755",
+                "source": "32166",
+                "target": "10273",
+                "stringdb_score": 0.612
+            }
+        },
+        {
+            "data": {
+                "id": "870763",
+                "source": "32166",
+                "target": "17759",
+                "stringdb_score": 0.593
+            }
+        },
+        {
+            "data": {
+                "id": "870764",
+                "source": "32166",
+                "target": "17760",
+                "stringdb_score": 0.593
+            }
+        },
+        {
+            "data": {
+                "id": "870741",
+                "source": "32166",
+                "target": "14288",
+                "stringdb_score": 0.635
+            }
+        },
+        {
+            "data": {
+                "id": "870749",
+                "source": "32166",
+                "target": "27459",
+                "stringdb_score": 0.615
+            }
+        },
+        {
+            "data": {
+                "id": "870748",
+                "source": "32166",
+                "target": "486",
+                "stringdb_score": 0.615
+            }
+        },
+        {
+            "data": {
+                "id": "870710",
+                "source": "32166",
+                "target": "3085",
+                "stringdb_score": 0.973
+            }
+        },
+        {
+            "data": {
+                "id": "290114",
+                "source": "17760",
+                "target": "10266",
+                "stringdb_score": 0.411
+            }
+        },
+        {
+            "data": {
+                "id": "290042",
+                "source": "17760",
+                "target": "3085",
+                "stringdb_score": 0.834
+            }
+        },
+        {
+            "data": {
+                "id": "290039",
+                "source": "17760",
+                "target": "10273",
+                "stringdb_score": 0.853
+            }
+        },
+        {
+            "data": {
+                "id": "290035",
+                "source": "17760",
+                "target": "486",
+                "stringdb_score": 0.876
+            }
+        },
+        {
+            "data": {
+                "id": "290024",
+                "source": "17759",
+                "target": "3085",
+                "stringdb_score": 0.438
+            }
+        },
+        {
+            "data": {
+                "id": "290008",
+                "source": "17759",
+                "target": "486",
+                "stringdb_score": 0.605
+            }
+        },
+        {
+            "data": {
+                "id": "178659",
+                "source": "13639",
+                "target": "7397",
+                "stringdb_score": 0.507
+            }
+        },
+        {
+            "data": {
+                "id": "178632",
+                "source": "13639",
+                "target": "13542",
+                "stringdb_score": 0.898
+            }
+        },
+        {
+            "data": {
+                "id": "178633",
+                "source": "13639",
+                "target": "7252",
+                "stringdb_score": 0.894
+            }
+        },
+        {
+            "data": {
+                "id": "178621",
+                "source": "13639",
+                "target": "2045",
+                "stringdb_score": 0.971
+            }
+        },
+        {
+            "data": {
+                "id": "229348",
+                "source": "15620",
+                "target": "15550",
+                "stringdb_score": 0.753
+            }
+        },
+        {
+            "data": {
+                "id": "229350",
+                "source": "15620",
+                "target": "15551",
+                "stringdb_score": 0.753
+            }
+        },
+        {
+            "data": {
+                "id": "229339",
+                "source": "15620",
+                "target": "2097",
+                "stringdb_score": 0.754
+            }
+        },
+        {
+            "data": {
+                "id": "229340",
+                "source": "15620",
+                "target": "15369",
+                "stringdb_score": 0.754
+            }
+        },
+        {
+            "data": {
+                "id": "229311",
+                "source": "15620",
+                "target": "14601",
+                "stringdb_score": 0.864
+            }
+        },
+        {
+            "data": {
+                "id": "229296",
+                "source": "15620",
+                "target": "3971",
+                "stringdb_score": 0.92
+            }
+        },
+        {
+            "data": {
+                "id": "229483",
+                "source": "15620",
+                "target": "2125",
+                "stringdb_score": 0.407
+            }
+        },
+        {
+            "data": {
+                "id": "229436",
+                "source": "15620",
+                "target": "7362",
+                "stringdb_score": 0.59
+            }
+        },
+        {
+            "data": {
+                "id": "229406",
+                "source": "15620",
+                "target": "5054",
+                "stringdb_score": 0.65
+            }
+        },
+        {
+            "data": {
+                "id": "229389",
+                "source": "15620",
+                "target": "7816",
+                "stringdb_score": 0.696
+            }
+        },
+        {
+            "data": {
+                "id": "229383",
+                "source": "15620",
+                "target": "2696",
+                "stringdb_score": 0.712
+            }
+        },
+        {
+            "data": {
+                "id": "176754",
+                "source": "13542",
+                "target": "3085",
+                "stringdb_score": 0.414
+            }
+        },
+        {
+            "data": {
+                "id": "176712",
+                "source": "13542",
+                "target": "7397",
+                "stringdb_score": 0.935
+            }
+        },
+        {
+            "data": {
+                "id": "176707",
+                "source": "13542",
+                "target": "7252",
+                "stringdb_score": 0.976
+            }
+        },
+        {
+            "data": {
+                "id": "176709",
+                "source": "13542",
+                "target": "2045",
+                "stringdb_score": 0.954
+            }
+        },
+        {
+            "data": {
+                "id": "76828",
+                "source": "7397",
+                "target": "2045",
+                "stringdb_score": 0.928
+            }
+        },
+        {
+            "data": {
+                "id": "76826",
+                "source": "7397",
+                "target": "7252",
+                "stringdb_score": 0.945
+            }
+        },
+        {
+            "data": {
+                "id": "485662",
+                "source": "23773",
+                "target": "3085",
+                "stringdb_score": 0.657
+            }
+        },
+        {
+            "data": {
+                "id": "76050",
+                "source": "7362",
+                "target": "2879",
+                "stringdb_score": 0.941
+            }
+        },
+        {
+            "data": {
+                "id": "76037",
+                "source": "7362",
+                "target": "2097",
+                "stringdb_score": 0.97
+            }
+        },
+        {
+            "data": {
+                "id": "76024",
+                "source": "7362",
+                "target": "5054",
+                "stringdb_score": 0.979
+            }
+        },
+        {
+            "data": {
+                "id": "76021",
+                "source": "7362",
+                "target": "5957",
+                "stringdb_score": 0.98
+            }
+        },
+        {
+            "data": {
+                "id": "76012",
+                "source": "7362",
+                "target": "2696",
+                "stringdb_score": 0.983
+            }
+        },
+        {
+            "data": {
+                "id": "76002",
+                "source": "7362",
+                "target": "3971",
+                "stringdb_score": 0.985
+            }
+        },
+        {
+            "data": {
+                "id": "225354",
+                "source": "15551",
+                "target": "14482",
+                "stringdb_score": 0.712
+            }
+        },
+        {
+            "data": {
+                "id": "225319",
+                "source": "15551",
+                "target": "13795",
+                "stringdb_score": 0.786
+            }
+        },
+        {
+            "data": {
+                "id": "225298",
+                "source": "15551",
+                "target": "14911",
+                "stringdb_score": 0.819
+            }
+        },
+        {
+            "data": {
+                "id": "225203",
+                "source": "15551",
+                "target": "2879",
+                "stringdb_score": 0.94
+            }
+        },
+        {
+            "data": {
+                "id": "225194",
+                "source": "15551",
+                "target": "7669",
+                "stringdb_score": 0.953
+            }
+        },
+        {
+            "data": {
+                "id": "225190",
+                "source": "15551",
+                "target": "7816",
+                "stringdb_score": 0.962
+            }
+        },
+        {
+            "data": {
+                "id": "225180",
+                "source": "15551",
+                "target": "14601",
+                "stringdb_score": 0.965
+            }
+        },
+        {
+            "data": {
+                "id": "225182",
+                "source": "15551",
+                "target": "10056",
+                "stringdb_score": 0.964
+            }
+        },
+        {
+            "data": {
+                "id": "225175",
+                "source": "15551",
+                "target": "5054",
+                "stringdb_score": 0.966
+            }
+        },
+        {
+            "data": {
+                "id": "225172",
+                "source": "15551",
+                "target": "15369",
+                "stringdb_score": 0.968
+            }
+        },
+        {
+            "data": {
+                "id": "225135",
+                "source": "15551",
+                "target": "2097",
+                "stringdb_score": 0.981
+            }
+        },
+        {
+            "data": {
+                "id": "225120",
+                "source": "15551",
+                "target": "2696",
+                "stringdb_score": 0.984
+            }
+        },
+        {
+            "data": {
+                "id": "225111",
+                "source": "15551",
+                "target": "12271",
+                "stringdb_score": 0.986
+            }
+        },
+        {
+            "data": {
+                "id": "225108",
+                "source": "15551",
+                "target": "5957",
+                "stringdb_score": 0.986
+            }
+        },
+        {
+            "data": {
+                "id": "225079",
+                "source": "15551",
+                "target": "3971",
+                "stringdb_score": 0.99
+            }
+        },
+        {
+            "data": {
+                "id": "225075",
+                "source": "15551",
+                "target": "7362",
+                "stringdb_score": 0.991
+            }
+        },
+        {
+            "data": {
+                "id": "224934",
+                "source": "15550",
+                "target": "14482",
+                "stringdb_score": 0.712
+            }
+        },
+        {
+            "data": {
+                "id": "224899",
+                "source": "15550",
+                "target": "13795",
+                "stringdb_score": 0.786
+            }
+        },
+        {
+            "data": {
+                "id": "224877",
+                "source": "15550",
+                "target": "14911",
+                "stringdb_score": 0.819
+            }
+        },
+        {
+            "data": {
+                "id": "224782",
+                "source": "15550",
+                "target": "2879",
+                "stringdb_score": 0.94
+            }
+        },
+        {
+            "data": {
+                "id": "224773",
+                "source": "15550",
+                "target": "7669",
+                "stringdb_score": 0.953
+            }
+        },
+        {
+            "data": {
+                "id": "224769",
+                "source": "15550",
+                "target": "7816",
+                "stringdb_score": 0.962
+            }
+        },
+        {
+            "data": {
+                "id": "224759",
+                "source": "15550",
+                "target": "14601",
+                "stringdb_score": 0.965
+            }
+        },
+        {
+            "data": {
+                "id": "224761",
+                "source": "15550",
+                "target": "10056",
+                "stringdb_score": 0.964
+            }
+        },
+        {
+            "data": {
+                "id": "224751",
+                "source": "15550",
+                "target": "15369",
+                "stringdb_score": 0.968
+            }
+        },
+        {
+            "data": {
+                "id": "224754",
+                "source": "15550",
+                "target": "5054",
+                "stringdb_score": 0.966
+            }
+        },
+        {
+            "data": {
+                "id": "224714",
+                "source": "15550",
+                "target": "2097",
+                "stringdb_score": 0.981
+            }
+        },
+        {
+            "data": {
+                "id": "224699",
+                "source": "15550",
+                "target": "2696",
+                "stringdb_score": 0.984
+            }
+        },
+        {
+            "data": {
+                "id": "224687",
+                "source": "15550",
+                "target": "5957",
+                "stringdb_score": 0.986
+            }
+        },
+        {
+            "data": {
+                "id": "224690",
+                "source": "15550",
+                "target": "12271",
+                "stringdb_score": 0.986
+            }
+        },
+        {
+            "data": {
+                "id": "224658",
+                "source": "15550",
+                "target": "3971",
+                "stringdb_score": 0.99
+            }
+        },
+        {
+            "data": {
+                "id": "224654",
+                "source": "15550",
+                "target": "7362",
+                "stringdb_score": 0.991
+            }
+        },
+        {
+            "data": {
+                "id": "481780",
+                "source": "23668",
+                "target": "2879",
+                "stringdb_score": 0.461
+            }
+        },
+        {
+            "data": {
+                "id": "481714",
+                "source": "23668",
+                "target": "10056",
+                "stringdb_score": 0.562
+            }
+        },
+        {
+            "data": {
+                "id": "481710",
+                "source": "23668",
+                "target": "7816",
+                "stringdb_score": 0.57
+            }
+        },
+        {
+            "data": {
+                "id": "481652",
+                "source": "23668",
+                "target": "22193",
+                "stringdb_score": 0.671
+            }
+        },
+        {
+            "data": {
+                "id": "481653",
+                "source": "23668",
+                "target": "22518",
+                "stringdb_score": 0.671
+            }
+        },
+        {
+            "data": {
+                "id": "481583",
+                "source": "23668",
+                "target": "14601",
+                "stringdb_score": 0.761
+            }
+        },
+        {
+            "data": {
+                "id": "481575",
+                "source": "23668",
+                "target": "7362",
+                "stringdb_score": 0.775
+            }
+        },
+        {
+            "data": {
+                "id": "481570",
+                "source": "23668",
+                "target": "5957",
+                "stringdb_score": 0.778
+            }
+        },
+        {
+            "data": {
+                "id": "481571",
+                "source": "23668",
+                "target": "12271",
+                "stringdb_score": 0.778
+            }
+        },
+        {
+            "data": {
+                "id": "481554",
+                "source": "23668",
+                "target": "5054",
+                "stringdb_score": 0.787
+            }
+        },
+        {
+            "data": {
+                "id": "481544",
+                "source": "23668",
+                "target": "15369",
+                "stringdb_score": 0.792
+            }
+        },
+        {
+            "data": {
+                "id": "481530",
+                "source": "23668",
+                "target": "15550",
+                "stringdb_score": 0.815
+            }
+        },
+        {
+            "data": {
+                "id": "481533",
+                "source": "23668",
+                "target": "15551",
+                "stringdb_score": 0.815
+            }
+        },
+        {
+            "data": {
+                "id": "481510",
+                "source": "23668",
+                "target": "2696",
+                "stringdb_score": 0.838
+            }
+        },
+        {
+            "data": {
+                "id": "481499",
+                "source": "23668",
+                "target": "2097",
+                "stringdb_score": 0.865
+            }
+        },
+        {
+            "data": {
+                "id": "481453",
+                "source": "23668",
+                "target": "17913",
+                "stringdb_score": 0.925
+            }
+        },
+        {
+            "data": {
+                "id": "481446",
+                "source": "23668",
+                "target": "3971",
+                "stringdb_score": 0.983
+            }
+        },
+        {
+            "data": {
+                "id": "74598",
+                "source": "7252",
+                "target": "2045",
+                "stringdb_score": 0.941
+            }
+        },
+        {
+            "data": {
+                "id": "401365",
+                "source": "21575",
+                "target": "16488",
+                "stringdb_score": 0.613
+            }
+        },
+        {
+            "data": {
+                "id": "848822",
+                "source": "31795",
+                "target": "3081",
+                "stringdb_score": 0.439
+            }
+        },
+        {
+            "data": {
+                "id": "848679",
+                "source": "31795",
+                "target": "30806",
+                "stringdb_score": 0.692
+            }
+        },
+        {
+            "data": {
+                "id": "848639",
+                "source": "31795",
+                "target": "17975",
+                "stringdb_score": 0.799
+            }
+        },
+        {
+            "data": {
+                "id": "848638",
+                "source": "31795",
+                "target": "2636",
+                "stringdb_score": 0.799
+            }
+        },
+        {
+            "data": {
+                "id": "43135",
+                "source": "3085",
+                "target": "486",
+                "stringdb_score": 0.921
+            }
+        },
+        {
+            "data": {
+                "id": "43051",
+                "source": "3081",
+                "target": "2636",
+                "stringdb_score": 0.601
+            }
+        },
+        {
+            "data": {
+                "id": "219811",
+                "source": "15369",
+                "target": "14482",
+                "stringdb_score": 0.692
+            }
+        },
+        {
+            "data": {
+                "id": "219768",
+                "source": "15369",
+                "target": "14911",
+                "stringdb_score": 0.792
+            }
+        },
+        {
+            "data": {
+                "id": "219759",
+                "source": "15369",
+                "target": "7669",
+                "stringdb_score": 0.824
+            }
+        },
+        {
+            "data": {
+                "id": "219754",
+                "source": "15369",
+                "target": "2879",
+                "stringdb_score": 0.841
+            }
+        },
+        {
+            "data": {
+                "id": "219710",
+                "source": "15369",
+                "target": "7816",
+                "stringdb_score": 0.911
+            }
+        },
+        {
+            "data": {
+                "id": "219706",
+                "source": "15369",
+                "target": "2696",
+                "stringdb_score": 0.916
+            }
+        },
+        {
+            "data": {
+                "id": "219699",
+                "source": "15369",
+                "target": "10056",
+                "stringdb_score": 0.927
+            }
+        },
+        {
+            "data": {
+                "id": "219702",
+                "source": "15369",
+                "target": "5054",
+                "stringdb_score": 0.921
+            }
+        },
+        {
+            "data": {
+                "id": "219688",
+                "source": "15369",
+                "target": "5957",
+                "stringdb_score": 0.938
+            }
+        },
+        {
+            "data": {
+                "id": "219689",
+                "source": "15369",
+                "target": "12271",
+                "stringdb_score": 0.938
+            }
+        },
+        {
+            "data": {
+                "id": "219683",
+                "source": "15369",
+                "target": "14601",
+                "stringdb_score": 0.939
+            }
+        },
+        {
+            "data": {
+                "id": "219674",
+                "source": "15369",
+                "target": "2097",
+                "stringdb_score": 0.943
+            }
+        },
+        {
+            "data": {
+                "id": "219649",
+                "source": "15369",
+                "target": "7362",
+                "stringdb_score": 0.963
+            }
+        },
+        {
+            "data": {
+                "id": "219589",
+                "source": "15369",
+                "target": "3971",
+                "stringdb_score": 0.989
+            }
+        },
+        {
+            "data": {
+                "id": "56025",
+                "source": "5054",
+                "target": "2879",
+                "stringdb_score": 0.895
+            }
+        },
+        {
+            "data": {
+                "id": "56018",
+                "source": "5054",
+                "target": "3971",
+                "stringdb_score": 0.919
+            }
+        },
+        {
+            "data": {
+                "id": "56009",
+                "source": "5054",
+                "target": "2097",
+                "stringdb_score": 0.953
+            }
+        },
+        {
+            "data": {
+                "id": "56001",
+                "source": "5054",
+                "target": "2696",
+                "stringdb_score": 0.965
+            }
+        },
+        {
+            "data": {
+                "id": "470017",
+                "source": "23393",
+                "target": "14482",
+                "stringdb_score": 0.422
+            }
+        },
+        {
+            "data": {
+                "id": "469928",
+                "source": "23393",
+                "target": "14601",
+                "stringdb_score": 0.493
+            }
+        },
+        {
+            "data": {
+                "id": "469934",
+                "source": "23393",
+                "target": "3971",
+                "stringdb_score": 0.487
+            }
+        },
+        {
+            "data": {
+                "id": "469907",
+                "source": "23393",
+                "target": "16771",
+                "stringdb_score": 0.529
+            }
+        },
+        {
+            "data": {
+                "id": "469872",
+                "source": "23393",
+                "target": "16488",
+                "stringdb_score": 0.571
+            }
+        },
+        {
+            "data": {
+                "id": "469844",
+                "source": "23393",
+                "target": "22193",
+                "stringdb_score": 0.608
+            }
+        },
+        {
+            "data": {
+                "id": "469846",
+                "source": "23393",
+                "target": "22518",
+                "stringdb_score": 0.608
+            }
+        },
+        {
+            "data": {
+                "id": "927803",
+                "source": "33631",
+                "target": "14482",
+                "stringdb_score": 0.416
+            }
+        },
+        {
+            "data": {
+                "id": "927632",
+                "source": "33631",
+                "target": "14911",
+                "stringdb_score": 0.589
+            }
+        },
+        {
+            "data": {
+                "id": "927636",
+                "source": "33631",
+                "target": "33301",
+                "stringdb_score": 0.589
+            }
+        },
+        {
+            "data": {
+                "id": "927635",
+                "source": "33631",
+                "target": "23668",
+                "stringdb_score": 0.589
+            }
+        },
+        {
+            "data": {
+                "id": "927590",
+                "source": "33631",
+                "target": "22547",
+                "stringdb_score": 0.636
+            }
+        },
+        {
+            "data": {
+                "id": "927504",
+                "source": "33631",
+                "target": "3971",
+                "stringdb_score": 0.713
+            }
+        },
+        {
+            "data": {
+                "id": "927478",
+                "source": "33631",
+                "target": "15620",
+                "stringdb_score": 0.736
+            }
+        },
+        {
+            "data": {
+                "id": "927448",
+                "source": "33631",
+                "target": "2879",
+                "stringdb_score": 0.757
+            }
+        },
+        {
+            "data": {
+                "id": "927382",
+                "source": "33631",
+                "target": "22518",
+                "stringdb_score": 0.798
+            }
+        },
+        {
+            "data": {
+                "id": "927381",
+                "source": "33631",
+                "target": "22193",
+                "stringdb_score": 0.798
+            }
+        },
+        {
+            "data": {
+                "id": "927317",
+                "source": "33631",
+                "target": "24755",
+                "stringdb_score": 0.847
+            }
+        },
+        {
+            "data": {
+                "id": "927319",
+                "source": "33631",
+                "target": "10056",
+                "stringdb_score": 0.847
+            }
+        },
+        {
+            "data": {
+                "id": "927322",
+                "source": "33631",
+                "target": "7669",
+                "stringdb_score": 0.845
+            }
+        },
+        {
+            "data": {
+                "id": "927296",
+                "source": "33631",
+                "target": "7816",
+                "stringdb_score": 0.855
+            }
+        },
+        {
+            "data": {
+                "id": "927281",
+                "source": "33631",
+                "target": "2696",
+                "stringdb_score": 0.859
+            }
+        },
+        {
+            "data": {
+                "id": "927288",
+                "source": "33631",
+                "target": "15369",
+                "stringdb_score": 0.858
+            }
+        },
+        {
+            "data": {
+                "id": "927273",
+                "source": "33631",
+                "target": "31425",
+                "stringdb_score": 0.859
+            }
+        },
+        {
+            "data": {
+                "id": "927262",
+                "source": "33631",
+                "target": "5054",
+                "stringdb_score": 0.866
+            }
+        },
+        {
+            "data": {
+                "id": "927219",
+                "source": "33631",
+                "target": "33564",
+                "stringdb_score": 0.889
+            }
+        },
+        {
+            "data": {
+                "id": "927222",
+                "source": "33631",
+                "target": "12271",
+                "stringdb_score": 0.884
+            }
+        },
+        {
+            "data": {
+                "id": "927223",
+                "source": "33631",
+                "target": "5957",
+                "stringdb_score": 0.884
+            }
+        },
+        {
+            "data": {
+                "id": "927196",
+                "source": "33631",
+                "target": "27119",
+                "stringdb_score": 0.899
+            }
+        },
+        {
+            "data": {
+                "id": "927197",
+                "source": "33631",
+                "target": "2097",
+                "stringdb_score": 0.899
+            }
+        },
+        {
+            "data": {
+                "id": "927056",
+                "source": "33631",
+                "target": "7362",
+                "stringdb_score": 0.942
+            }
+        },
+        {
+            "data": {
+                "id": "927068",
+                "source": "33631",
+                "target": "15550",
+                "stringdb_score": 0.94
+            }
+        },
+        {
+            "data": {
+                "id": "927069",
+                "source": "33631",
+                "target": "15551",
+                "stringdb_score": 0.94
+            }
+        },
+        {
+            "data": {
+                "id": "927045",
+                "source": "33631",
+                "target": "17913",
+                "stringdb_score": 0.954
+            }
+        },
+        {
+            "data": {
+                "id": "927015",
+                "source": "33631",
+                "target": "14601",
+                "stringdb_score": 0.989
+            }
+        },
+        {
+            "data": {
+                "id": "627332",
+                "source": "27459",
+                "target": "10266",
+                "stringdb_score": 0.414
+            }
+        },
+        {
+            "data": {
+                "id": "627321",
+                "source": "27459",
+                "target": "18104",
+                "stringdb_score": 0.436
+            }
+        },
+        {
+            "data": {
+                "id": "627229",
+                "source": "27459",
+                "target": "17759",
+                "stringdb_score": 0.586
+            }
+        },
+        {
+            "data": {
+                "id": "627181",
+                "source": "27459",
+                "target": "14288",
+                "stringdb_score": 0.746
+            }
+        },
+        {
+            "data": {
+                "id": "627159",
+                "source": "27459",
+                "target": "486",
+                "stringdb_score": 0.801
+            }
+        },
+        {
+            "data": {
+                "id": "627139",
+                "source": "27459",
+                "target": "3085",
+                "stringdb_score": 0.921
+            }
+        },
+        {
+            "data": {
+                "id": "627144",
+                "source": "27459",
+                "target": "17760",
+                "stringdb_score": 0.876
+            }
+        },
+        {
+            "data": {
+                "id": "627134",
+                "source": "27459",
+                "target": "10273",
+                "stringdb_score": 0.951
+            }
+        },
+        {
+            "data": {
+                "id": "41753",
+                "source": "2879",
+                "target": "2097",
+                "stringdb_score": 0.892
+            }
+        },
+        {
+            "data": {
+                "id": "41750",
+                "source": "2879",
+                "target": "2696",
+                "stringdb_score": 0.918
+            }
+        },
+        {
+            "data": {
+                "id": "921164",
+                "source": "33564",
+                "target": "13795",
+                "stringdb_score": 0.429
+            }
+        },
+        {
+            "data": {
+                "id": "920971",
+                "source": "33564",
+                "target": "23393",
+                "stringdb_score": 0.7
+            }
+        },
+        {
+            "data": {
+                "id": "920927",
+                "source": "33564",
+                "target": "7362",
+                "stringdb_score": 0.752
+            }
+        },
+        {
+            "data": {
+                "id": "920918",
+                "source": "33564",
+                "target": "23668",
+                "stringdb_score": 0.753
+            }
+        },
+        {
+            "data": {
+                "id": "920923",
+                "source": "33564",
+                "target": "14911",
+                "stringdb_score": 0.753
+            }
+        },
+        {
+            "data": {
+                "id": "920925",
+                "source": "33564",
+                "target": "33301",
+                "stringdb_score": 0.753
+            }
+        },
+        {
+            "data": {
+                "id": "920880",
+                "source": "33564",
+                "target": "7816",
+                "stringdb_score": 0.791
+            }
+        },
+        {
+            "data": {
+                "id": "920871",
+                "source": "33564",
+                "target": "2879",
+                "stringdb_score": 0.804
+            }
+        },
+        {
+            "data": {
+                "id": "920831",
+                "source": "33564",
+                "target": "15369",
+                "stringdb_score": 0.834
+            }
+        },
+        {
+            "data": {
+                "id": "920842",
+                "source": "33564",
+                "target": "14482",
+                "stringdb_score": 0.825
+            }
+        },
+        {
+            "data": {
+                "id": "920816",
+                "source": "33564",
+                "target": "5054",
+                "stringdb_score": 0.852
+            }
+        },
+        {
+            "data": {
+                "id": "920786",
+                "source": "33564",
+                "target": "15620",
+                "stringdb_score": 0.87
+            }
+        },
+        {
+            "data": {
+                "id": "920766",
+                "source": "33564",
+                "target": "27119",
+                "stringdb_score": 0.88
+            }
+        },
+        {
+            "data": {
+                "id": "920765",
+                "source": "33564",
+                "target": "2097",
+                "stringdb_score": 0.88
+            }
+        },
+        {
+            "data": {
+                "id": "920709",
+                "source": "33564",
+                "target": "31425",
+                "stringdb_score": 0.919
+            }
+        },
+        {
+            "data": {
+                "id": "920716",
+                "source": "33564",
+                "target": "15550",
+                "stringdb_score": 0.915
+            }
+        },
+        {
+            "data": {
+                "id": "920718",
+                "source": "33564",
+                "target": "15551",
+                "stringdb_score": 0.915
+            }
+        },
+        {
+            "data": {
+                "id": "920702",
+                "source": "33564",
+                "target": "2696",
+                "stringdb_score": 0.919
+            }
+        },
+        {
+            "data": {
+                "id": "920656",
+                "source": "33564",
+                "target": "22518",
+                "stringdb_score": 0.952
+            }
+        },
+        {
+            "data": {
+                "id": "920654",
+                "source": "33564",
+                "target": "22193",
+                "stringdb_score": 0.952
+            }
+        },
+        {
+            "data": {
+                "id": "920590",
+                "source": "33564",
+                "target": "3971",
+                "stringdb_score": 0.993
+            }
+        },
+        {
+            "data": {
+                "id": "920589",
+                "source": "33564",
+                "target": "14601",
+                "stringdb_score": 0.994
+            }
+        },
+        {
+            "data": {
+                "id": "918499",
+                "source": "33503",
+                "target": "22007",
+                "stringdb_score": 0.435
+            }
+        },
+        {
+            "data": {
+                "id": "918473",
+                "source": "33503",
+                "target": "8371",
+                "stringdb_score": 0.497
+            }
+        },
+        {
+            "data": {
+                "id": "825637",
+                "source": "31425",
+                "target": "14482",
+                "stringdb_score": 0.476
+            }
+        },
+        {
+            "data": {
+                "id": "825453",
+                "source": "31425",
+                "target": "15620",
+                "stringdb_score": 0.712
+            }
+        },
+        {
+            "data": {
+                "id": "825409",
+                "source": "31425",
+                "target": "22547",
+                "stringdb_score": 0.746
+            }
+        },
+        {
+            "data": {
+                "id": "825397",
+                "source": "31425",
+                "target": "22193",
+                "stringdb_score": 0.748
+            }
+        },
+        {
+            "data": {
+                "id": "825402",
+                "source": "31425",
+                "target": "22518",
+                "stringdb_score": 0.748
+            }
+        },
+        {
+            "data": {
+                "id": "825302",
+                "source": "31425",
+                "target": "23668",
+                "stringdb_score": 0.838
+            }
+        },
+        {
+            "data": {
+                "id": "825292",
+                "source": "31425",
+                "target": "14911",
+                "stringdb_score": 0.842
+            }
+        },
+        {
+            "data": {
+                "id": "825205",
+                "source": "31425",
+                "target": "2879",
+                "stringdb_score": 0.918
+            }
+        },
+        {
+            "data": {
+                "id": "825208",
+                "source": "31425",
+                "target": "15369",
+                "stringdb_score": 0.916
+            }
+        },
+        {
+            "data": {
+                "id": "825198",
+                "source": "31425",
+                "target": "10056",
+                "stringdb_score": 0.927
+            }
+        },
+        {
+            "data": {
+                "id": "825195",
+                "source": "31425",
+                "target": "24755",
+                "stringdb_score": 0.927
+            }
+        },
+        {
+            "data": {
+                "id": "825174",
+                "source": "31425",
+                "target": "7816",
+                "stringdb_score": 0.939
+            }
+        },
+        {
+            "data": {
+                "id": "825153",
+                "source": "31425",
+                "target": "14601",
+                "stringdb_score": 0.948
+            }
+        },
+        {
+            "data": {
+                "id": "825138",
+                "source": "31425",
+                "target": "7669",
+                "stringdb_score": 0.954
+            }
+        },
+        {
+            "data": {
+                "id": "825126",
+                "source": "31425",
+                "target": "2097",
+                "stringdb_score": 0.955
+            }
+        },
+        {
+            "data": {
+                "id": "825127",
+                "source": "31425",
+                "target": "27119",
+                "stringdb_score": 0.955
+            }
+        },
+        {
+            "data": {
+                "id": "825097",
+                "source": "31425",
+                "target": "5054",
+                "stringdb_score": 0.965
+            }
+        },
+        {
+            "data": {
+                "id": "825022",
+                "source": "31425",
+                "target": "12271",
+                "stringdb_score": 0.977
+            }
+        },
+        {
+            "data": {
+                "id": "825021",
+                "source": "31425",
+                "target": "5957",
+                "stringdb_score": 0.977
+            }
+        },
+        {
+            "data": {
+                "id": "824981",
+                "source": "31425",
+                "target": "15551",
+                "stringdb_score": 0.984
+            }
+        },
+        {
+            "data": {
+                "id": "824980",
+                "source": "31425",
+                "target": "15550",
+                "stringdb_score": 0.984
+            }
+        },
+        {
+            "data": {
+                "id": "824984",
+                "source": "31425",
+                "target": "7362",
+                "stringdb_score": 0.983
+            }
+        },
+        {
+            "data": {
+                "id": "824945",
+                "source": "31425",
+                "target": "17913",
+                "stringdb_score": 0.99
+            }
+        },
+        {
+            "data": {
+                "id": "824951",
+                "source": "31425",
+                "target": "3971",
+                "stringdb_score": 0.988
+            }
+        },
+        {
+            "data": {
+                "id": "40664",
+                "source": "2696",
+                "target": "2097",
+                "stringdb_score": 0.955
+            }
+        },
+        {
+            "data": {
+                "id": "204140",
+                "source": "14911",
+                "target": "2879",
+                "stringdb_score": 0.461
+            }
+        },
+        {
+            "data": {
+                "id": "204108",
+                "source": "14911",
+                "target": "10056",
+                "stringdb_score": 0.562
+            }
+        },
+        {
+            "data": {
+                "id": "204105",
+                "source": "14911",
+                "target": "7816",
+                "stringdb_score": 0.57
+            }
+        },
+        {
+            "data": {
+                "id": "204024",
+                "source": "14911",
+                "target": "14601",
+                "stringdb_score": 0.761
+            }
+        },
+        {
+            "data": {
+                "id": "204017",
+                "source": "14911",
+                "target": "7362",
+                "stringdb_score": 0.775
+            }
+        },
+        {
+            "data": {
+                "id": "204011",
+                "source": "14911",
+                "target": "5957",
+                "stringdb_score": 0.781
+            }
+        },
+        {
+            "data": {
+                "id": "204012",
+                "source": "14911",
+                "target": "12271",
+                "stringdb_score": 0.781
+            }
+        },
+        {
+            "data": {
+                "id": "204005",
+                "source": "14911",
+                "target": "5054",
+                "stringdb_score": 0.787
+            }
+        },
+        {
+            "data": {
+                "id": "203979",
+                "source": "14911",
+                "target": "2696",
+                "stringdb_score": 0.842
+            }
+        },
+        {
+            "data": {
+                "id": "203972",
+                "source": "14911",
+                "target": "2097",
+                "stringdb_score": 0.865
+            }
+        },
+        {
+            "data": {
+                "id": "203947",
+                "source": "14911",
+                "target": "3971",
+                "stringdb_score": 0.983
+            }
+        },
+        {
+            "data": {
+                "id": "907922",
+                "source": "33301",
+                "target": "2879",
+                "stringdb_score": 0.461
+            }
+        },
+        {
+            "data": {
+                "id": "907841",
+                "source": "33301",
+                "target": "10056",
+                "stringdb_score": 0.562
+            }
+        },
+        {
+            "data": {
+                "id": "907839",
+                "source": "33301",
+                "target": "24755",
+                "stringdb_score": 0.562
+            }
+        },
+        {
+            "data": {
+                "id": "907835",
+                "source": "33301",
+                "target": "7816",
+                "stringdb_score": 0.57
+            }
+        },
+        {
+            "data": {
+                "id": "907757",
+                "source": "33301",
+                "target": "22193",
+                "stringdb_score": 0.671
+            }
+        },
+        {
+            "data": {
+                "id": "907758",
+                "source": "33301",
+                "target": "22518",
+                "stringdb_score": 0.671
+            }
+        },
+        {
+            "data": {
+                "id": "907705",
+                "source": "33301",
+                "target": "7362",
+                "stringdb_score": 0.729
+            }
+        },
+        {
+            "data": {
+                "id": "907671",
+                "source": "33301",
+                "target": "14601",
+                "stringdb_score": 0.761
+            }
+        },
+        {
+            "data": {
+                "id": "907640",
+                "source": "33301",
+                "target": "5054",
+                "stringdb_score": 0.787
+            }
+        },
+        {
+            "data": {
+                "id": "907645",
+                "source": "33301",
+                "target": "12271",
+                "stringdb_score": 0.785
+            }
+        },
+        {
+            "data": {
+                "id": "907644",
+                "source": "33301",
+                "target": "5957",
+                "stringdb_score": 0.785
+            }
+        },
+        {
+            "data": {
+                "id": "907629",
+                "source": "33301",
+                "target": "15369",
+                "stringdb_score": 0.792
+            }
+        },
+        {
+            "data": {
+                "id": "907606",
+                "source": "33301",
+                "target": "15550",
+                "stringdb_score": 0.815
+            }
+        },
+        {
+            "data": {
+                "id": "907610",
+                "source": "33301",
+                "target": "15551",
+                "stringdb_score": 0.815
+            }
+        },
+        {
+            "data": {
+                "id": "907588",
+                "source": "33301",
+                "target": "2696",
+                "stringdb_score": 0.838
+            }
+        },
+        {
+            "data": {
+                "id": "907591",
+                "source": "33301",
+                "target": "31425",
+                "stringdb_score": 0.838
+            }
+        },
+        {
+            "data": {
+                "id": "907577",
+                "source": "33301",
+                "target": "2097",
+                "stringdb_score": 0.865
+            }
+        },
+        {
+            "data": {
+                "id": "907578",
+                "source": "33301",
+                "target": "27119",
+                "stringdb_score": 0.865
+            }
+        },
+        {
+            "data": {
+                "id": "907505",
+                "source": "33301",
+                "target": "3971",
+                "stringdb_score": 0.983
+            }
+        },
+        {
+            "data": {
+                "id": "907514",
+                "source": "33301",
+                "target": "17913",
+                "stringdb_score": 0.926
+            }
+        },
+        {
+            "data": {
+                "id": "610980",
+                "source": "27148",
+                "target": "13639",
+                "stringdb_score": 0.499
+            }
+        },
+        {
+            "data": {
+                "id": "610972",
+                "source": "27148",
+                "target": "7252",
+                "stringdb_score": 0.577
+            }
+        },
+        {
+            "data": {
+                "id": "610230",
+                "source": "27119",
+                "target": "22518",
+                "stringdb_score": 0.729
+            }
+        },
+        {
+            "data": {
+                "id": "610228",
+                "source": "27119",
+                "target": "22193",
+                "stringdb_score": 0.729
+            }
+        },
+        {
+            "data": {
+                "id": "610225",
+                "source": "27119",
+                "target": "14482",
+                "stringdb_score": 0.734
+            }
+        },
+        {
+            "data": {
+                "id": "610217",
+                "source": "27119",
+                "target": "22547",
+                "stringdb_score": 0.749
+            }
+        },
+        {
+            "data": {
+                "id": "610205",
+                "source": "27119",
+                "target": "15620",
+                "stringdb_score": 0.754
+            }
+        },
+        {
+            "data": {
+                "id": "610163",
+                "source": "27119",
+                "target": "7669",
+                "stringdb_score": 0.814
+            }
+        },
+        {
+            "data": {
+                "id": "610099",
+                "source": "27119",
+                "target": "23668",
+                "stringdb_score": 0.865
+            }
+        },
+        {
+            "data": {
+                "id": "610104",
+                "source": "27119",
+                "target": "14911",
+                "stringdb_score": 0.865
+            }
+        },
+        {
+            "data": {
+                "id": "610053",
+                "source": "27119",
+                "target": "2879",
+                "stringdb_score": 0.892
+            }
+        },
+        {
+            "data": {
+                "id": "610002",
+                "source": "27119",
+                "target": "15369",
+                "stringdb_score": 0.943
+            }
+        },
+        {
+            "data": {
+                "id": "610011",
+                "source": "27119",
+                "target": "10056",
+                "stringdb_score": 0.938
+            }
+        },
+        {
+            "data": {
+                "id": "610008",
+                "source": "27119",
+                "target": "24755",
+                "stringdb_score": 0.938
+            }
+        },
+        {
+            "data": {
+                "id": "609998",
+                "source": "27119",
+                "target": "7816",
+                "stringdb_score": 0.945
+            }
+        },
+        {
+            "data": {
+                "id": "609977",
+                "source": "27119",
+                "target": "5054",
+                "stringdb_score": 0.953
+            }
+        },
+        {
+            "data": {
+                "id": "609963",
+                "source": "27119",
+                "target": "2696",
+                "stringdb_score": 0.955
+            }
+        },
+        {
+            "data": {
+                "id": "609942",
+                "source": "27119",
+                "target": "12271",
+                "stringdb_score": 0.965
+            }
+        },
+        {
+            "data": {
+                "id": "609938",
+                "source": "27119",
+                "target": "5957",
+                "stringdb_score": 0.965
+            }
+        },
+        {
+            "data": {
+                "id": "609916",
+                "source": "27119",
+                "target": "7362",
+                "stringdb_score": 0.97
+            }
+        },
+        {
+            "data": {
+                "id": "609914",
+                "source": "27119",
+                "target": "14601",
+                "stringdb_score": 0.97
+            }
+        },
+        {
+            "data": {
+                "id": "609839",
+                "source": "27119",
+                "target": "15551",
+                "stringdb_score": 0.981
+            }
+        },
+        {
+            "data": {
+                "id": "609838",
+                "source": "27119",
+                "target": "15550",
+                "stringdb_score": 0.981
+            }
+        },
+        {
+            "data": {
+                "id": "609813",
+                "source": "27119",
+                "target": "17913",
+                "stringdb_score": 0.985
+            }
+        },
+        {
+            "data": {
+                "id": "609798",
+                "source": "27119",
+                "target": "3971",
+                "stringdb_score": 0.989
+            }
+        },
+        {
+            "data": {
+                "id": "383808",
+                "source": "20923",
+                "target": "14288",
+                "stringdb_score": 0.52
+            }
+        },
+        {
+            "data": {
+                "id": "383814",
+                "source": "20923",
+                "target": "4339",
+                "stringdb_score": 0.462
+            }
+        },
+        {
+            "data": {
+                "id": "383799",
+                "source": "20923",
+                "target": "10273",
+                "stringdb_score": 0.58
+            }
+        },
+        {
+            "data": {
+                "id": "805824",
+                "source": "31099",
+                "target": "14288",
+                "stringdb_score": 0.492
+            }
+        },
+        {
+            "data": {
+                "id": "805808",
+                "source": "31099",
+                "target": "17760",
+                "stringdb_score": 0.547
+            }
+        },
+        {
+            "data": {
+                "id": "805802",
+                "source": "31099",
+                "target": "3085",
+                "stringdb_score": 0.571
+            }
+        },
+        {
+            "data": {
+                "id": "805764",
+                "source": "31099",
+                "target": "10273",
+                "stringdb_score": 0.788
+            }
+        },
+        {
+            "data": {
+                "id": "805770",
+                "source": "31099",
+                "target": "27459",
+                "stringdb_score": 0.778
+            }
+        },
+        {
+            "data": {
+                "id": "805769",
+                "source": "31099",
+                "target": "486",
+                "stringdb_score": 0.778
+            }
+        },
+        {
+            "data": {
+                "id": "802357",
+                "source": "31081",
+                "target": "20923",
+                "stringdb_score": 0.428
+            }
+        },
+        {
+            "data": {
+                "id": "802297",
+                "source": "31081",
+                "target": "23393",
+                "stringdb_score": 0.646
+            }
+        },
+        {
+            "data": {
+                "id": "195969",
+                "source": "14601",
+                "target": "13795",
+                "stringdb_score": 0.49
+            }
+        },
+        {
+            "data": {
+                "id": "195823",
+                "source": "14601",
+                "target": "14482",
+                "stringdb_score": 0.876
+            }
+        },
+        {
+            "data": {
+                "id": "195813",
+                "source": "14601",
+                "target": "2879",
+                "stringdb_score": 0.903
+            }
+        },
+        {
+            "data": {
+                "id": "195791",
+                "source": "14601",
+                "target": "7362",
+                "stringdb_score": 0.941
+            }
+        },
+        {
+            "data": {
+                "id": "195780",
+                "source": "14601",
+                "target": "5054",
+                "stringdb_score": 0.945
+            }
+        },
+        {
+            "data": {
+                "id": "195774",
+                "source": "14601",
+                "target": "2696",
+                "stringdb_score": 0.948
+            }
+        },
+        {
+            "data": {
+                "id": "195752",
+                "source": "14601",
+                "target": "7816",
+                "stringdb_score": 0.956
+            }
+        },
+        {
+            "data": {
+                "id": "195724",
+                "source": "14601",
+                "target": "2097",
+                "stringdb_score": 0.97
+            }
+        },
+        {
+            "data": {
+                "id": "195668",
+                "source": "14601",
+                "target": "3971",
+                "stringdb_score": 0.999
+            }
+        },
+        {
+            "data": {
+                "id": "258056",
+                "source": "16591",
+                "target": "16488",
+                "stringdb_score": 0.644
+            }
+        },
+        {
+            "data": {
+                "id": "257994",
+                "source": "16591",
+                "target": "13639",
+                "stringdb_score": 0.941
+            }
+        },
+        {
+            "data": {
+                "id": "257989",
+                "source": "16591",
+                "target": "2045",
+                "stringdb_score": 0.949
+            }
+        },
+        {
+            "data": {
+                "id": "257982",
+                "source": "16591",
+                "target": "13542",
+                "stringdb_score": 0.985
+            }
+        },
+        {
+            "data": {
+                "id": "257976",
+                "source": "16591",
+                "target": "7252",
+                "stringdb_score": 0.994
+            }
+        },
+        {
+            "data": {
+                "id": "257978",
+                "source": "16591",
+                "target": "7397",
+                "stringdb_score": 0.993
+            }
+        },
+        {
+            "data": {
+                "id": "525486",
+                "source": "24755",
+                "target": "14911",
+                "stringdb_score": 0.562
+            }
+        },
+        {
+            "data": {
+                "id": "525482",
+                "source": "24755",
+                "target": "23668",
+                "stringdb_score": 0.562
+            }
+        },
+        {
+            "data": {
+                "id": "525392",
+                "source": "24755",
+                "target": "3081",
+                "stringdb_score": 0.61
+            }
+        },
+        {
+            "data": {
+                "id": "525381",
+                "source": "24755",
+                "target": "2636",
+                "stringdb_score": 0.615
+            }
+        },
+        {
+            "data": {
+                "id": "525383",
+                "source": "24755",
+                "target": "17975",
+                "stringdb_score": 0.615
+            }
+        },
+        {
+            "data": {
+                "id": "525312",
+                "source": "24755",
+                "target": "7669",
+                "stringdb_score": 0.697
+            }
+        },
+        {
+            "data": {
+                "id": "525139",
+                "source": "24755",
+                "target": "2879",
+                "stringdb_score": 0.863
+            }
+        },
+        {
+            "data": {
+                "id": "525112",
+                "source": "24755",
+                "target": "7816",
+                "stringdb_score": 0.918
+            }
+        },
+        {
+            "data": {
+                "id": "525087",
+                "source": "24755",
+                "target": "2097",
+                "stringdb_score": 0.938
+            }
+        },
+        {
+            "data": {
+                "id": "525099",
+                "source": "24755",
+                "target": "2696",
+                "stringdb_score": 0.927
+            }
+        },
+        {
+            "data": {
+                "id": "525098",
+                "source": "24755",
+                "target": "15369",
+                "stringdb_score": 0.927
+            }
+        },
+        {
+            "data": {
+                "id": "525048",
+                "source": "24755",
+                "target": "7362",
+                "stringdb_score": 0.954
+            }
+        },
+        {
+            "data": {
+                "id": "525028",
+                "source": "24755",
+                "target": "5054",
+                "stringdb_score": 0.961
+            }
+        },
+        {
+            "data": {
+                "id": "525036",
+                "source": "24755",
+                "target": "12271",
+                "stringdb_score": 0.958
+            }
+        },
+        {
+            "data": {
+                "id": "525034",
+                "source": "24755",
+                "target": "5957",
+                "stringdb_score": 0.958
+            }
+        },
+        {
+            "data": {
+                "id": "525016",
+                "source": "24755",
+                "target": "15551",
+                "stringdb_score": 0.964
+            }
+        },
+        {
+            "data": {
+                "id": "525015",
+                "source": "24755",
+                "target": "15550",
+                "stringdb_score": 0.964
+            }
+        },
+        {
+            "data": {
+                "id": "524925",
+                "source": "24755",
+                "target": "3971",
+                "stringdb_score": 0.98
+            }
+        },
+        {
+            "data": {
+                "id": "524909",
+                "source": "24755",
+                "target": "17913",
+                "stringdb_score": 0.984
+            }
+        },
+        {
+            "data": {
+                "id": "193143",
+                "source": "14482",
+                "target": "2696",
+                "stringdb_score": 0.476
+            }
+        },
+        {
+            "data": {
+                "id": "193104",
+                "source": "14482",
+                "target": "7362",
+                "stringdb_score": 0.575
+            }
+        },
+        {
+            "data": {
+                "id": "193099",
+                "source": "14482",
+                "target": "2879",
+                "stringdb_score": 0.604
+            }
+        },
+        {
+            "data": {
+                "id": "193088",
+                "source": "14482",
+                "target": "7816",
+                "stringdb_score": 0.643
+            }
+        },
+        {
+            "data": {
+                "id": "193085",
+                "source": "14482",
+                "target": "5054",
+                "stringdb_score": 0.645
+            }
+        },
+        {
+            "data": {
+                "id": "193040",
+                "source": "14482",
+                "target": "2097",
+                "stringdb_score": 0.734
+            }
+        },
+        {
+            "data": {
+                "id": "193010",
+                "source": "14482",
+                "target": "3971",
+                "stringdb_score": 0.883
+            }
+        },
+        {
+            "data": {
+                "id": "688854",
+                "source": "28817",
+                "target": "13639",
+                "stringdb_score": 0.499
+            }
+        },
+        {
+            "data": {
+                "id": "688836",
+                "source": "28817",
+                "target": "13542",
+                "stringdb_score": 0.637
+            }
+        },
+        {
+            "data": {
+                "id": "688843",
+                "source": "28817",
+                "target": "7252",
+                "stringdb_score": 0.577
+            }
+        },
+        {
+            "data": {
+                "id": "688839",
+                "source": "28817",
+                "target": "27148",
+                "stringdb_score": 0.608
+            }
+        },
+        {
+            "data": {
+                "id": "255883",
+                "source": "16488",
+                "target": "13639",
+                "stringdb_score": 0.46
+            }
+        },
+        {
+            "data": {
+                "id": "255879",
+                "source": "16488",
+                "target": "2045",
+                "stringdb_score": 0.499
+            }
+        },
+        {
+            "data": {
+                "id": "255864",
+                "source": "16488",
+                "target": "13542",
+                "stringdb_score": 0.616
+            }
+        },
+        {
+            "data": {
+                "id": "255849",
+                "source": "16488",
+                "target": "7252",
+                "stringdb_score": 0.944
+            }
+        },
+        {
+            "data": {
+                "id": "784849",
+                "source": "30806",
+                "target": "2636",
+                "stringdb_score": 0.544
+            }
+        },
+        {
+            "data": {
+                "id": "784850",
+                "source": "30806",
+                "target": "17975",
+                "stringdb_score": 0.544
+            }
+        },
+        {
+            "data": {
+                "id": "784859",
+                "source": "30806",
+                "target": "10056",
+                "stringdb_score": 0.541
+            }
+        },
+        {
+            "data": {
+                "id": "784855",
+                "source": "30806",
+                "target": "24755",
+                "stringdb_score": 0.541
+            }
+        },
+        {
+            "data": {
+                "id": "784827",
+                "source": "30806",
+                "target": "3081",
+                "stringdb_score": 0.588
+            }
+        },
+        {
+            "data": {
+                "id": "591644",
+                "source": "26660",
+                "target": "23393",
+                "stringdb_score": 0.472
+            }
+        },
+        {
+            "data": {
+                "id": "591641",
+                "source": "26660",
+                "target": "16488",
+                "stringdb_score": 0.493
+            }
+        },
+        {
+            "data": {
+                "id": "591642",
+                "source": "26660",
+                "target": "14288",
+                "stringdb_score": 0.488
+            }
+        },
+        {
+            "data": {
+                "id": "591535",
+                "source": "26660",
+                "target": "21575",
+                "stringdb_score": 0.996
+            }
+        },
+        {
+            "data": {
+                "id": "118659",
+                "source": "10273",
+                "target": "10266",
+                "stringdb_score": 0.42
+            }
+        },
+        {
+            "data": {
+                "id": "118589",
+                "source": "10273",
+                "target": "3085",
+                "stringdb_score": 0.901
+            }
+        },
+        {
+            "data": {
+                "id": "118587",
+                "source": "10273",
+                "target": "486",
+                "stringdb_score": 0.938
+            }
+        },
+        {
+            "data": {
+                "id": "118549",
+                "source": "10266",
+                "target": "486",
+                "stringdb_score": 0.422
+            }
+        },
+        {
+            "data": {
+                "id": "684867",
+                "source": "28694",
+                "target": "17760",
+                "stringdb_score": 0.424
+            }
+        },
+        {
+            "data": {
+                "id": "684803",
+                "source": "28694",
+                "target": "7252",
+                "stringdb_score": 0.604
+            }
+        },
+        {
+            "data": {
+                "id": "684789",
+                "source": "28694",
+                "target": "28232",
+                "stringdb_score": 0.611
+            }
+        },
+        {
+            "data": {
+                "id": "684797",
+                "source": "28694",
+                "target": "28241",
+                "stringdb_score": 0.611
+            }
+        },
+        {
+            "data": {
+                "id": "684723",
+                "source": "28694",
+                "target": "13542",
+                "stringdb_score": 0.909
+            }
+        },
+        {
+            "data": {
+                "id": "684707",
+                "source": "28694",
+                "target": "16591",
+                "stringdb_score": 0.971
+            }
+        },
+        {
+            "data": {
+                "id": "684703",
+                "source": "28694",
+                "target": "13639",
+                "stringdb_score": 0.993
+            }
+        },
+        {
+            "data": {
+                "id": "684711",
+                "source": "28694",
+                "target": "2045",
+                "stringdb_score": 0.958
+            }
+        },
+        {
+            "data": {
+                "id": "432297",
+                "source": "22547",
+                "target": "7669",
+                "stringdb_score": 0.451
+            }
+        },
+        {
+            "data": {
+                "id": "432287",
+                "source": "22547",
+                "target": "22007",
+                "stringdb_score": 0.481
+            }
+        },
+        {
+            "data": {
+                "id": "432217",
+                "source": "22547",
+                "target": "2879",
+                "stringdb_score": 0.64
+            }
+        },
+        {
+            "data": {
+                "id": "432202",
+                "source": "22547",
+                "target": "17913",
+                "stringdb_score": 0.689
+            }
+        },
+        {
+            "data": {
+                "id": "432190",
+                "source": "22547",
+                "target": "7816",
+                "stringdb_score": 0.725
+            }
+        },
+        {
+            "data": {
+                "id": "432176",
+                "source": "22547",
+                "target": "2097",
+                "stringdb_score": 0.749
+            }
+        },
+        {
+            "data": {
+                "id": "432180",
+                "source": "22547",
+                "target": "2696",
+                "stringdb_score": 0.746
+            }
+        },
+        {
+            "data": {
+                "id": "432163",
+                "source": "22547",
+                "target": "5054",
+                "stringdb_score": 0.753
+            }
+        },
+        {
+            "data": {
+                "id": "432155",
+                "source": "22547",
+                "target": "7362",
+                "stringdb_score": 0.761
+            }
+        },
+        {
+            "data": {
+                "id": "432142",
+                "source": "22547",
+                "target": "12271",
+                "stringdb_score": 0.772
+            }
+        },
+        {
+            "data": {
+                "id": "432141",
+                "source": "22547",
+                "target": "5957",
+                "stringdb_score": 0.772
+            }
+        },
+        {
+            "data": {
+                "id": "432118",
+                "source": "22547",
+                "target": "15551",
+                "stringdb_score": 0.817
+            }
+        },
+        {
+            "data": {
+                "id": "432117",
+                "source": "22547",
+                "target": "15550",
+                "stringdb_score": 0.817
+            }
+        },
+        {
+            "data": {
+                "id": "432095",
+                "source": "22547",
+                "target": "3971",
+                "stringdb_score": 0.856
+            }
+        },
+        {
+            "data": {
+                "id": "430185",
+                "source": "22518",
+                "target": "2879",
+                "stringdb_score": 0.62
+            }
+        },
+        {
+            "data": {
+                "id": "430182",
+                "source": "22518",
+                "target": "7362",
+                "stringdb_score": 0.623
+            }
+        },
+        {
+            "data": {
+                "id": "430151",
+                "source": "22518",
+                "target": "5054",
+                "stringdb_score": 0.684
+            }
+        },
+        {
+            "data": {
+                "id": "430154",
+                "source": "22518",
+                "target": "14911",
+                "stringdb_score": 0.671
+            }
+        },
+        {
+            "data": {
+                "id": "430103",
+                "source": "22518",
+                "target": "2097",
+                "stringdb_score": 0.729
+            }
+        },
+        {
+            "data": {
+                "id": "430095",
+                "source": "22518",
+                "target": "7816",
+                "stringdb_score": 0.736
+            }
+        },
+        {
+            "data": {
+                "id": "430083",
+                "source": "22518",
+                "target": "2696",
+                "stringdb_score": 0.748
+            }
+        },
+        {
+            "data": {
+                "id": "430086",
+                "source": "22518",
+                "target": "14482",
+                "stringdb_score": 0.747
+            }
+        },
+        {
+            "data": {
+                "id": "430064",
+                "source": "22518",
+                "target": "15620",
+                "stringdb_score": 0.755
+            }
+        },
+        {
+            "data": {
+                "id": "430040",
+                "source": "22518",
+                "target": "15369",
+                "stringdb_score": 0.788
+            }
+        },
+        {
+            "data": {
+                "id": "430004",
+                "source": "22518",
+                "target": "15550",
+                "stringdb_score": 0.832
+            }
+        },
+        {
+            "data": {
+                "id": "430005",
+                "source": "22518",
+                "target": "15551",
+                "stringdb_score": 0.832
+            }
+        },
+        {
+            "data": {
+                "id": "429943",
+                "source": "22518",
+                "target": "14601",
+                "stringdb_score": 0.982
+            }
+        },
+        {
+            "data": {
+                "id": "429941",
+                "source": "22518",
+                "target": "3971",
+                "stringdb_score": 0.991
+            }
+        },
+        {
+            "data": {
+                "id": "150631",
+                "source": "12271",
+                "target": "7669",
+                "stringdb_score": 0.92
+            }
+        },
+        {
+            "data": {
+                "id": "150628",
+                "source": "12271",
+                "target": "2879",
+                "stringdb_score": 0.921
+            }
+        },
+        {
+            "data": {
+                "id": "150625",
+                "source": "12271",
+                "target": "7816",
+                "stringdb_score": 0.928
+            }
+        },
+        {
+            "data": {
+                "id": "150614",
+                "source": "12271",
+                "target": "10056",
+                "stringdb_score": 0.958
+            }
+        },
+        {
+            "data": {
+                "id": "150600",
+                "source": "12271",
+                "target": "5054",
+                "stringdb_score": 0.962
+            }
+        },
+        {
+            "data": {
+                "id": "150597",
+                "source": "12271",
+                "target": "2097",
+                "stringdb_score": 0.965
+            }
+        },
+        {
+            "data": {
+                "id": "150565",
+                "source": "12271",
+                "target": "2696",
+                "stringdb_score": 0.977
+            }
+        },
+        {
+            "data": {
+                "id": "150556",
+                "source": "12271",
+                "target": "7362",
+                "stringdb_score": 0.98
+            }
+        },
+        {
+            "data": {
+                "id": "150542",
+                "source": "12271",
+                "target": "3971",
+                "stringdb_score": 0.983
+            }
+        }
+    ]
+}

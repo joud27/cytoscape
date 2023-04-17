@@ -1,0 +1,73 @@
+body {
+    text-align: center;
+}
+
+h2 {
+    margin: 7px;
+}
+
+.border_blue {
+    border: 3px solid blue;
+    border-radius: 40px;
+}
+
+.border_green {
+    border: 3px solid green;
+    border-radius: 20px;
+}
+
+div {
+    padding: 5px;
+    margin: 5px;
+}
+
+table {
+    width: 100%;
+    height: 100%;
+}
+
+#everything {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+#upper {
+    height: 5%;
+}
+
+#lower {
+    height: 95%;
+}
+
+.left {
+    width: 25%;
+}
+
+.right {
+    width: 75%;
+}
+
+.left_button {
+    width: 75%;
+    margin: 10px 0px;
+}
+
+.lower_button {
+    width: 50%;
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+#graph {
+    height: 60%;
+}
+
+#legend {
+    height: 20%;
+}
+
+#lower_buttons {
+    height: 5%;
+}

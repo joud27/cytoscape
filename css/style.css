@@ -7,12 +7,12 @@ h2 {
 }
 
 .border_blue {
-    border: 3px solid blue;
+    border: 3px solid #36a9e0;
     border-radius: 40px;
 }
 
 .border_green {
-    border: 3px solid green;
+    border: 3px solid #76b72a;
     border-radius: 20px;
 }
 

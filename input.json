@@ -1,0 +1,1439 @@
+{
+    "nodes": [
+        {
+            "data": {
+                "id": "Photosynthesis"
+            }
+        },
+        {
+            "data": {
+                "id": "21575",
+                "uniprot": "C0KZ34",
+                "log_ratio_conditionA": 0.5110111,
+                "log_ratio_conditionB": 0.5110111,
+                "log_ratio_conditionC": 0.5110111,
+                "description": "Violaxanthin de-epoxidase ; Belongs to the calycin superfamily. Lipocalin family.",
+                "displayName": "C0KZ34",
+                "parent": "Photosynthesis",
+                "codeBP": "'9.1.6.2.2'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1135.4804654075233,
+                "y": -3184.8931388285855
+            }
+        },
+        {
+            "data": {
+                "id": "27148",
+                "uniprot": "P05349",
+                "log_ratio_conditionA": 1.3390241,
+                "log_ratio_conditionB": 1.3390241,
+                "log_ratio_conditionC": 1.3390241,
+                "description": "Ribulose bisphosphate carboxylase small chain 3B, chloroplastic; RuBisCO catalyzes two reactions: the carboxylation of D- ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate. Both reactions occur simultaneously and in competition at the same active site (By similarity).",
+                "displayName": "P05349",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.2.1.1.2'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1016.2596192313758,
+                "y": -3491.310810032199
+            }
+        },
+        {
+            "data": {
+                "id": "28241",
+                "uniprot": "P07370",
+                "log_ratio_conditionA": -0.11983299,
+                "log_ratio_conditionB": -0.11983299,
+                "log_ratio_conditionC": -0.11983299,
+                "description": "Chlorophyll a-b binding protein 1B, chloroplastic; The light-harvesting complex (LHC) functions as a light receptor, it captures and delivers excitation energy to photosystems with which it is closely associated; Belongs to the light-harvesting chlorophyll a/b- binding (LHC) protein family.",
+                "displayName": "P07370",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.1.1'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -989.1854157401649,
+                "y": -3697.1736411479214
+            }
+        },
+        {
+            "data": {
+                "id": "28232",
+                "uniprot": "P07370",
+                "log_ratio_conditionA": -0.11983299,
+                "log_ratio_conditionB": -0.11983299,
+                "log_ratio_conditionC": -0.11983299,
+                "description": "Chlorophyll a-b binding protein 1B, chloroplastic; The light-harvesting complex (LHC) functions as a light receptor, it captures and delivers excitation energy to photosystems with which it is closely associated; Belongs to the light-harvesting chlorophyll a/b- binding (LHC) protein family.",
+                "displayName": "P07370",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.1.1'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1027.4436554862586,
+                "y": -3734.2978782084683
+            }
+        },
+        {
+            "data": {
+                "id": "28817",
+                "uniprot": "P08706",
+                "log_ratio_conditionA": 0.1264925,
+                "log_ratio_conditionB": 0.1264925,
+                "log_ratio_conditionC": 0.1264925,
+                "description": "Ribulose bisphosphate carboxylase small chain 1, chloroplastic; RuBisCO catalyzes two reactions: the carboxylation of D- ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate. Both reactions occur simultaneously and in competition at the same active site (By similarity).",
+                "displayName": "P08706",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.2.1.1.2'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1045.2265534354774,
+                "y": -3592.682521763156
+            }
+        },
+        {
+            "data": {
+                "id": "7397",
+                "uniprot": "P10708",
+                "log_ratio_conditionA": -0.22009754,
+                "log_ratio_conditionB": -0.22009754,
+                "log_ratio_conditionC": -0.22009754,
+                "description": "Chlorophyll a-b binding protein 7, chloroplastic; The light-harvesting complex (LHC) functions as a light receptor, it captures and delivers excitation energy to photosystems with which it is closely associated; Belongs to the light-harvesting chlorophyll a/b- binding (LHC) protein family.",
+                "displayName": "P10708",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.4.1.2'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -991.9460511161415,
+                "y": -3621.4696158793668
+            }
+        },
+        {
+            "data": {
+                "id": "16591",
+                "uniprot": "P12372",
+                "log_ratio_conditionA": -0.12578201,
+                "log_ratio_conditionB": -0.12578201,
+                "log_ratio_conditionC": -0.12578201,
+                "description": "Photosystem I reaction center subunit II, chloroplastic; PsaD can form complexes with ferredoxin and ferredoxin- oxidoreductase in photosystem I (PS I) reaction center. PSAD may encode the ferredoxin-docking protein.",
+                "displayName": "P12372",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.4.2.4'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1082.135984892997,
+                "y": -3463.5102958110074
+            }
+        },
+        {
+            "data": {
+                "id": "13542",
+                "uniprot": "P14278",
+                "log_ratio_conditionA": -0.6426735,
+                "log_ratio_conditionB": -0.6426735,
+                "log_ratio_conditionC": -0.6426735,
+                "description": "Chlorophyll a-b binding protein 4, chloroplastic; The light-harvesting complex (LHC) functions as a light receptor, it captures and delivers excitation energy to photosystems with which it is closely associated; Belongs to the light-harvesting chlorophyll a/b- binding (LHC) protein family.",
+                "displayName": "P14278",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.1.1'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1047.1568322135536,
+                "y": -3567.721126499484
+            }
+        },
+        {
+            "data": {
+                "id": "28694",
+                "uniprot": "P23322",
+                "log_ratio_conditionA": -0.109996796,
+                "log_ratio_conditionB": -0.109996796,
+                "log_ratio_conditionC": -0.109996796,
+                "description": "33 kDa subunit of oxygen evolving system of photosystem II; Stabilizes the manganese cluster which is the primary site of water splitting.",
+                "displayName": "P23322",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.2.2.1'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1073.0129151298133,
+                "y": -3581.032619419406
+            }
+        },
+        {
+            "data": {
+                "id": "2045",
+                "uniprot": "P27489",
+                "log_ratio_conditionA": -0.6064062,
+                "log_ratio_conditionB": -0.6064062,
+                "log_ratio_conditionC": -0.6064062,
+                "description": "Chlorophyll a-b binding protein 13, chloroplastic; The light-harvesting complex (LHC) functions as a light receptor, it captures and delivers excitation energy to photosystems with which it is closely associated; Belongs to the light-harvesting chlorophyll a/b- binding (LHC) protein family.",
+                "displayName": "P27489",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.1.1'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1059.0611443473426,
+                "y": -3647.9538688090543
+            }
+        },
+        {
+            "data": {
+                "id": "7252",
+                "uniprot": "P27522",
+                "log_ratio_conditionA": -0.22511292,
+                "log_ratio_conditionB": -0.22511292,
+                "log_ratio_conditionC": -0.22511292,
+                "description": "Chlorophyll a-b binding protein 8, chloroplastic; The light-harvesting complex (LHC) functions as a light receptor, it captures and delivers excitation energy to photosystems with which it is closely associated; Belongs to the light-harvesting chlorophyll a/b- binding (LHC) protein family.",
+                "displayName": "P27522",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.4.1.3'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1096.1341175986854,
+                "y": -3516.153713169406
+            }
+        },
+        {
+            "data": {
+                "id": "30350",
+                "uniprot": "P27524",
+                "log_ratio_conditionA": -0.91320896,
+                "log_ratio_conditionB": -0.91320896,
+                "log_ratio_conditionC": -0.91320896,
+                "description": "Chlorophyll a-b binding protein CP24 10A, chloroplastic ",
+                "displayName": "P27524",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.1.4'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1045.325251097831,
+                "y": -3561.38720315964
+            }
+        },
+        {
+            "data": {
+                "id": "30348",
+                "uniprot": "P27525",
+                "log_ratio_conditionA": -0.20997238,
+                "log_ratio_conditionB": -0.20997238,
+                "log_ratio_conditionC": -0.20997238,
+                "description": "Chlorophyll a-b binding protein CP24 10B, chloroplastic ",
+                "displayName": "P27525",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.1.4'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1049.2554116202919,
+                "y": -3612.613429966281
+            }
+        },
+        {
+            "data": {
+                "id": "13639",
+                "uniprot": "P29795",
+                "log_ratio_conditionA": -0.1532526,
+                "log_ratio_conditionB": -0.1532526,
+                "log_ratio_conditionC": -0.1532526,
+                "description": "23 kDa subunit of oxygen evolving system of photosystem II; May be involved in the regulation of photosystem II.",
+                "displayName": "P29795",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.2.2.2.1'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -988.9889740897743,
+                "y": -3646.9438590434293
+            }
+        },
+        {
+            "data": {
+                "id": "16488",
+                "uniprot": "P54773",
+                "log_ratio_conditionA": 0.52717686,
+                "log_ratio_conditionB": 0.52717686,
+                "log_ratio_conditionC": 0.52717686,
+                "description": "Photosystem II 22 kDa protein, chloroplastic; Seems to be involved in non-photochemical quenching, a process maintains the balance between dissipation and utilization of light energy to minimize generation of oxidizing molecules, thereby protecting the plant against photo-oxidative damage.",
+                "displayName": "P54773",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.5.1.2.1'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -990.1230530692665,
+                "y": -3530.606594028781
+            }
+        },
+        {
+            "data": {
+                "id": "26660",
+                "uniprot": "P93236",
+                "log_ratio_conditionA": -0.21532631,
+                "log_ratio_conditionB": -0.21532631,
+                "log_ratio_conditionC": -0.21532631,
+                "description": "Zeaxanthin epoxidase, chloroplastic; Converts zeaxanthin into antheraxanthin and subsequently violaxanthin. Involved in the epoxidation of zeaxanthin. Plays an important role in resistance to stresses, seed development and dormancy.",
+                "displayName": "P93236",
+                "parent": "Photosynthesis",
+                "codeBP": "'11.1.1.1'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1148.6385941459266,
+                "y": -3111.6438254740933
+            }
+        },
+        {
+            "data": {
+                "id": "31081",
+                "uniprot": "Q672Q7",
+                "log_ratio_conditionA": -0.5230789,
+                "log_ratio_conditionB": -0.5230789,
+                "log_ratio_conditionC": -0.5230789,
+                "description": "Putative uncharacterized protein",
+                "displayName": "Q672Q7",
+                "parent": "Photosynthesis",
+                "codeBP": "'1.1.1.5.2'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -857.9386811210243,
+                "y": -3652.4153708842496
+            }
+        },
+        {
+            "data": {
+                "id": "18104",
+                "uniprot": "Q8GT30",
+                "log_ratio_conditionA": 0.86100197,
+                "log_ratio_conditionB": 0.86100197,
+                "log_ratio_conditionC": 0.86100197,
+                "description": "Dihydrolipoyl dehydrogenase ",
+                "displayName": "Q8GT30",
+                "parent": "Photosynthesis",
+                "codeBP": "'4.2.7.2.3'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1034.693113799247,
+                "y": -3443.653572025607
+            }
+        },
+        {
+            "data": {
+                "id": "13795",
+                "uniprot": "Q9M5A8",
+                "log_ratio_conditionA": -0.15823364,
+                "log_ratio_conditionB": -0.15823364,
+                "log_ratio_conditionC": -0.15823364,
+                "description": "Chaperonin 21 ; Belongs to the GroES chaperonin family.",
+                "displayName": "Q9M5A8",
+                "parent": "Photosynthesis",
+                "codeBP": "'19.1.7.2'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1149.9663910819618,
+                "y": -3502.495456638644
+            }
+        },
+        {
+            "data": {
+                "id": "Chromatin organisation"
+            }
+        },
+        {
+            "data": {
+                "id": "22007",
+                "uniprot": "A5YVF1",
+                "log_ratio_conditionA": -0.30184174,
+                "log_ratio_conditionB": -0.30184174,
+                "log_ratio_conditionC": -0.30184174,
+                "description": "Protein SUPPRESSOR OF GENE SILENCING 3; Required for post-transcriptional gene silencing and natural virus resistance.",
+                "displayName": "A5YVF1",
+                "parent": "Chromatin organisation",
+                "codeBP": "'12.5.1.3'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1590.339254851493,
+                "y": -3354.920345249484
+            }
+        },
+        {
+            "data": {
+                "id": "33503",
+                "uniprot": "K4AT92",
+                "log_ratio_conditionA": -0.2507038,
+                "log_ratio_conditionB": -0.2507038,
+                "log_ratio_conditionC": -0.2507038,
+                "description": "",
+                "displayName": "K4AT92",
+                "parent": "Chromatin organisation",
+                "codeBP": "'12.5.1.13'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1478.8281769706336,
+                "y": -3431.6486548808316
+            }
+        },
+        {
+            "data": {
+                "id": "3081",
+                "uniprot": "O65818",
+                "log_ratio_conditionA": 1.1631947,
+                "log_ratio_conditionB": 1.1631947,
+                "log_ratio_conditionC": 1.1631947,
+                "description": "Histone H2B.2; Core component of nucleosome. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability. DNA accessibility is regulated via a complex set of post-translational modifications of histones, also called histone code, and nucleosome remodeling.",
+                "displayName": "O65818",
+                "parent": "Chromatin organisation",
+                "codeBP": "'12.1.3'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1404.0509552909461,
+                "y": -3321.5880927470425
+            }
+        },
+        {
+            "data": {
+                "id": "30806",
+                "uniprot": "P25469",
+                "log_ratio_conditionA": 0.65641785,
+                "log_ratio_conditionB": 0.65641785,
+                "log_ratio_conditionC": 0.65641785,
+                "description": "Histone H2A.1; Core component of nucleosome. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability. DNA accessibility is regulated via a complex set of post-translational modifications of histones, also called histone code, and nucleosome remodeling.",
+                "displayName": "P25469",
+                "parent": "Chromatin organisation",
+                "codeBP": "'12.1.2'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1455.399557585868,
+                "y": -3313.930614414523
+            }
+        },
+        {
+            "data": {
+                "id": "17975",
+                "uniprot": "P35057",
+                "log_ratio_conditionA": 0.6563492,
+                "log_ratio_conditionB": 0.6563492,
+                "log_ratio_conditionC": 0.6563492,
+                "description": "Histone H4; Core component of nucleosome. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability. DNA accessibility is regulated via a complex set of post-translational modifications of histones, also called histone code, and nucleosome remodeling.",
+                "displayName": "P35057",
+                "parent": "Chromatin organisation",
+                "codeBP": "'12.1.5'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1540.2374787284461,
+                "y": -3227.3287009623746
+            }
+        },
+        {
+            "data": {
+                "id": "2636",
+                "uniprot": "P35057",
+                "log_ratio_conditionA": 0.6563492,
+                "log_ratio_conditionB": 0.6563492,
+                "log_ratio_conditionC": 0.6563492,
+                "description": "Histone H4; Core component of nucleosome. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability. DNA accessibility is regulated via a complex set of post-translational modifications of histones, also called histone code, and nucleosome remodeling.",
+                "displayName": "P35057",
+                "parent": "Chromatin organisation",
+                "codeBP": "'12.1.5'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1526.211782927665,
+                "y": -3271.8379325297574
+            }
+        },
+        {
+            "data": {
+                "id": "8371",
+                "uniprot": "P37218",
+                "log_ratio_conditionA": -0.19420052,
+                "log_ratio_conditionB": -0.19420052,
+                "log_ratio_conditionC": -0.19420052,
+                "description": "Histone H1; Histones H1 are necessary for the condensation of nucleosome chains into higher-order structures.",
+                "displayName": "P37218",
+                "parent": "Chromatin organisation",
+                "codeBP": "'12.1.1'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1930.9939484550086,
+                "y": -3299.023471775363
+            }
+        },
+        {
+            "data": {
+                "id": "31795",
+                "uniprot": "Q944N1",
+                "log_ratio_conditionA": 0.13249779,
+                "log_ratio_conditionB": 0.13249779,
+                "log_ratio_conditionC": 0.13249779,
+                "description": "Protein LIKE HETEROCHROMATIN PROTEIN 1; Structural component of heterochromatin involved in gene repression. Recognizes and binds histone H3 tails methylated at 'Lys-9', leading to epigenetic repression.",
+                "displayName": "Q944N1",
+                "parent": "Chromatin organisation",
+                "codeBP": "'12.3.5.1.2'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1483.1619172050086,
+                "y": -3135.66161722214
+            }
+        },
+        {
+            "data": {
+                "id": "Lipid metabolism"
+            }
+        },
+        {
+            "data": {
+                "id": "11330",
+                "uniprot": "C0LIR3",
+                "log_ratio_conditionA": -0.5654144,
+                "log_ratio_conditionB": -0.5654144,
+                "log_ratio_conditionC": -0.5654144,
+                "description": "UDP-sulfoquinovose synthase ",
+                "displayName": "C0LIR3",
+                "parent": "Lipid metabolism",
+                "codeBP": "'5.3.6'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -884.7040162040321,
+                "y": -3238.9104422953824
+            }
+        },
+        {
+            "data": {
+                "id": "1077",
+                "uniprot": "P37222",
+                "log_ratio_conditionA": -0.36441422,
+                "log_ratio_conditionB": -0.36441422,
+                "log_ratio_conditionC": -0.36441422,
+                "description": "NADP-dependent malic enzyme, chloroplastic; The chloroplastic ME isoform decarboxylates malate shuttled from neighboring mesophyll cells. The CO(2) released is then refixed by ribulose-bisphosphate carboxylase. This pathway eliminates the photorespiratory loss of CO(2) that occurs in most plants.",
+                "displayName": "P37222",
+                "parent": "Lipid metabolism",
+                "codeBP": "'5.1.1.4'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -925.7244629813758,
+                "y": -3403.428440990756
+            }
+        },
+        {
+            "data": {
+                "id": "23330",
+                "uniprot": "Q5WM33",
+                "log_ratio_conditionA": -0.7618141,
+                "log_ratio_conditionB": -0.7618141,
+                "log_ratio_conditionC": -0.7618141,
+                "description": "Alpha-dioxygenase 2; Alpha-dioxygenase 2 enzyme ",
+                "displayName": "Q5WM33",
+                "parent": "Lipid metabolism",
+                "codeBP": "'5.7.3.4.1'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -711.4733185721961,
+                "y": -3059.7217368510464
+            }
+        },
+        {
+            "data": {
+                "id": "23393",
+                "uniprot": "Q672Q9",
+                "log_ratio_conditionA": -0.53327274,
+                "log_ratio_conditionB": -0.53327274,
+                "log_ratio_conditionC": -0.53327274,
+                "description": "Acyl carrier protein; Carrier of the growing fatty acid chain in fatty acid biosynthesis.",
+                "displayName": "Q672Q9",
+                "parent": "Lipid metabolism",
+                "codeBP": "'5.1.5.1'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -1122.4142708732215,
+                "y": -3511.570003452609
+            }
+        },
+        {
+            "data": {
+                "id": "16771",
+                "uniprot": "Q7X7I9",
+                "log_ratio_conditionA": -0.25246525,
+                "log_ratio_conditionB": -0.25246525,
+                "log_ratio_conditionC": -0.25246525,
+                "description": "Omega-3 fatty acid desaturase ",
+                "displayName": "Q7X7I9",
+                "parent": "Lipid metabolism",
+                "codeBP": "'5.1.7.3'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -945.0496277762977,
+                "y": -3370.787080707858
+            }
+        },
+        {
+            "data": {
+                "id": "23773",
+                "uniprot": "Q9M6A3",
+                "log_ratio_conditionA": 3.8592029,
+                "log_ratio_conditionB": 3.8592029,
+                "log_ratio_conditionC": 3.8592029,
+                "description": "Alternaria stem canker resistance protein 1; Mediates resistance to sphinganine-analog mycotoxins (SAMs) by restoring the sphingolipid biosynthesis. Could salvage the transport of GPI-anchored proteins from the endoplasmic reticulum to the Golgi apparatus in ceramides-depleted cells after SAM exposure.",
+                "displayName": "Q9M6A3",
+                "parent": "Lipid metabolism",
+                "codeBP": "'5.4.5'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -832.9076752616493,
+                "y": -3133.570278110812
+            }
+        },
+        {
+            "data": {
+                "id": "16017",
+                "uniprot": "Q9SDZ6",
+                "log_ratio_conditionA": 0.74768543,
+                "log_ratio_conditionB": 0.74768543,
+                "log_ratio_conditionC": 0.74768543,
+                "description": "Phospholipase D ",
+                "displayName": "Q9SDZ6",
+                "parent": "Lipid metabolism",
+                "codeBP": "'5.7.2.4.1'",
+                "p_value_conditionA": 0.001,
+                "p_value_conditionB": 0.91,
+                "p_value_conditionC": 0.049,
+                "ab_group_size": 100000000
+            },
+            "position": {
+                "x": -976.8704285575477,
+                "y": -3024.53954690964
+            }
+        }
+    ],
+    "edges": [
+        {
+            "data": {
+                "id": "750720",
+                "source": "30350",
+                "target": "23393",
+                "stringdb_score": 0.438
+            }
+        },
+        {
+            "data": {
+                "id": "750628",
+                "source": "30350",
+                "target": "30348",
+                "stringdb_score": 0.802
+            }
+        },
+        {
+            "data": {
+                "id": "750633",
+                "source": "30350",
+                "target": "28232",
+                "stringdb_score": 0.792
+            }
+        },
+        {
+            "data": {
+                "id": "750634",
+                "source": "30350",
+                "target": "28241",
+                "stringdb_score": 0.792
+            }
+        },
+        {
+            "data": {
+                "id": "750594",
+                "source": "30350",
+                "target": "7252",
+                "stringdb_score": 0.889
+            }
+        },
+        {
+            "data": {
+                "id": "750604",
+                "source": "30350",
+                "target": "7397",
+                "stringdb_score": 0.867
+            }
+        },
+        {
+            "data": {
+                "id": "750579",
+                "source": "30350",
+                "target": "13639",
+                "stringdb_score": 0.92
+            }
+        },
+        {
+            "data": {
+                "id": "750575",
+                "source": "30350",
+                "target": "16591",
+                "stringdb_score": 0.935
+            }
+        },
+        {
+            "data": {
+                "id": "750584",
+                "source": "30350",
+                "target": "13542",
+                "stringdb_score": 0.908
+            }
+        },
+        {
+            "data": {
+                "id": "750563",
+                "source": "30350",
+                "target": "2045",
+                "stringdb_score": 0.972
+            }
+        },
+        {
+            "data": {
+                "id": "750561",
+                "source": "30350",
+                "target": "28694",
+                "stringdb_score": 0.978
+            }
+        },
+        {
+            "data": {
+                "id": "750551",
+                "source": "30348",
+                "target": "23393",
+                "stringdb_score": 0.438
+            }
+        },
+        {
+            "data": {
+                "id": "750461",
+                "source": "30348",
+                "target": "28232",
+                "stringdb_score": 0.801
+            }
+        },
+        {
+            "data": {
+                "id": "750462",
+                "source": "30348",
+                "target": "28241",
+                "stringdb_score": 0.801
+            }
+        },
+        {
+            "data": {
+                "id": "750418",
+                "source": "30348",
+                "target": "7252",
+                "stringdb_score": 0.895
+            }
+        },
+        {
+            "data": {
+                "id": "750427",
+                "source": "30348",
+                "target": "13639",
+                "stringdb_score": 0.875
+            }
+        },
+        {
+            "data": {
+                "id": "750424",
+                "source": "30348",
+                "target": "16591",
+                "stringdb_score": 0.88
+            }
+        },
+        {
+            "data": {
+                "id": "750425",
+                "source": "30348",
+                "target": "7397",
+                "stringdb_score": 0.877
+            }
+        },
+        {
+            "data": {
+                "id": "750399",
+                "source": "30348",
+                "target": "28694",
+                "stringdb_score": 0.969
+            }
+        },
+        {
+            "data": {
+                "id": "750413",
+                "source": "30348",
+                "target": "13542",
+                "stringdb_score": 0.909
+            }
+        },
+        {
+            "data": {
+                "id": "750397",
+                "source": "30348",
+                "target": "2045",
+                "stringdb_score": 0.973
+            }
+        },
+        {
+            "data": {
+                "id": "659202",
+                "source": "28241",
+                "target": "16488",
+                "stringdb_score": 0.609
+            }
+        },
+        {
+            "data": {
+                "id": "659190",
+                "source": "28241",
+                "target": "7397",
+                "stringdb_score": 0.767
+            }
+        },
+        {
+            "data": {
+                "id": "659197",
+                "source": "28241",
+                "target": "16591",
+                "stringdb_score": 0.696
+            }
+        },
+        {
+            "data": {
+                "id": "659192",
+                "source": "28241",
+                "target": "2045",
+                "stringdb_score": 0.758
+            }
+        },
+        {
+            "data": {
+                "id": "659191",
+                "source": "28241",
+                "target": "13639",
+                "stringdb_score": 0.761
+            }
+        },
+        {
+            "data": {
+                "id": "659174",
+                "source": "28241",
+                "target": "7252",
+                "stringdb_score": 0.886
+            }
+        },
+        {
+            "data": {
+                "id": "659173",
+                "source": "28241",
+                "target": "28232",
+                "stringdb_score": 0.904
+            }
+        },
+        {
+            "data": {
+                "id": "659177",
+                "source": "28241",
+                "target": "13542",
+                "stringdb_score": 0.849
+            }
+        },
+        {
+            "data": {
+                "id": "658853",
+                "source": "28232",
+                "target": "16488",
+                "stringdb_score": 0.609
+            }
+        },
+        {
+            "data": {
+                "id": "658848",
+                "source": "28232",
+                "target": "16591",
+                "stringdb_score": 0.696
+            }
+        },
+        {
+            "data": {
+                "id": "658833",
+                "source": "28232",
+                "target": "13542",
+                "stringdb_score": 0.849
+            }
+        },
+        {
+            "data": {
+                "id": "658843",
+                "source": "28232",
+                "target": "2045",
+                "stringdb_score": 0.758
+            }
+        },
+        {
+            "data": {
+                "id": "658842",
+                "source": "28232",
+                "target": "13639",
+                "stringdb_score": 0.761
+            }
+        },
+        {
+            "data": {
+                "id": "658841",
+                "source": "28232",
+                "target": "7397",
+                "stringdb_score": 0.767
+            }
+        },
+        {
+            "data": {
+                "id": "658830",
+                "source": "28232",
+                "target": "7252",
+                "stringdb_score": 0.886
+            }
+        },
+        {
+            "data": {
+                "id": "300319",
+                "source": "17975",
+                "target": "3081",
+                "stringdb_score": 0.601
+            }
+        },
+        {
+            "data": {
+                "id": "300266",
+                "source": "17975",
+                "target": "2636",
+                "stringdb_score": 0.904
+            }
+        },
+        {
+            "data": {
+                "id": "178659",
+                "source": "13639",
+                "target": "7397",
+                "stringdb_score": 0.507
+            }
+        },
+        {
+            "data": {
+                "id": "178632",
+                "source": "13639",
+                "target": "13542",
+                "stringdb_score": 0.898
+            }
+        },
+        {
+            "data": {
+                "id": "178633",
+                "source": "13639",
+                "target": "7252",
+                "stringdb_score": 0.894
+            }
+        },
+        {
+            "data": {
+                "id": "178621",
+                "source": "13639",
+                "target": "2045",
+                "stringdb_score": 0.971
+            }
+        },
+        {
+            "data": {
+                "id": "176712",
+                "source": "13542",
+                "target": "7397",
+                "stringdb_score": 0.935
+            }
+        },
+        {
+            "data": {
+                "id": "176707",
+                "source": "13542",
+                "target": "7252",
+                "stringdb_score": 0.976
+            }
+        },
+        {
+            "data": {
+                "id": "176709",
+                "source": "13542",
+                "target": "2045",
+                "stringdb_score": 0.954
+            }
+        },
+        {
+            "data": {
+                "id": "76828",
+                "source": "7397",
+                "target": "2045",
+                "stringdb_score": 0.928
+            }
+        },
+        {
+            "data": {
+                "id": "76826",
+                "source": "7397",
+                "target": "7252",
+                "stringdb_score": 0.945
+            }
+        },
+        {
+            "data": {
+                "id": "74598",
+                "source": "7252",
+                "target": "2045",
+                "stringdb_score": 0.941
+            }
+        },
+        {
+            "data": {
+                "id": "401365",
+                "source": "21575",
+                "target": "16488",
+                "stringdb_score": 0.613
+            }
+        },
+        {
+            "data": {
+                "id": "848822",
+                "source": "31795",
+                "target": "3081",
+                "stringdb_score": 0.439
+            }
+        },
+        {
+            "data": {
+                "id": "848679",
+                "source": "31795",
+                "target": "30806",
+                "stringdb_score": 0.692
+            }
+        },
+        {
+            "data": {
+                "id": "848639",
+                "source": "31795",
+                "target": "17975",
+                "stringdb_score": 0.799
+            }
+        },
+        {
+            "data": {
+                "id": "848638",
+                "source": "31795",
+                "target": "2636",
+                "stringdb_score": 0.799
+            }
+        },
+        {
+            "data": {
+                "id": "43051",
+                "source": "3081",
+                "target": "2636",
+                "stringdb_score": 0.601
+            }
+        },
+        {
+            "data": {
+                "id": "469907",
+                "source": "23393",
+                "target": "16771",
+                "stringdb_score": 0.529
+            }
+        },
+        {
+            "data": {
+                "id": "469872",
+                "source": "23393",
+                "target": "16488",
+                "stringdb_score": 0.571
+            }
+        },
+        {
+            "data": {
+                "id": "918499",
+                "source": "33503",
+                "target": "22007",
+                "stringdb_score": 0.435
+            }
+        },
+        {
+            "data": {
+                "id": "918473",
+                "source": "33503",
+                "target": "8371",
+                "stringdb_score": 0.497
+            }
+        },
+        {
+            "data": {
+                "id": "610980",
+                "source": "27148",
+                "target": "13639",
+                "stringdb_score": 0.499
+            }
+        },
+        {
+            "data": {
+                "id": "610972",
+                "source": "27148",
+                "target": "7252",
+                "stringdb_score": 0.577
+            }
+        },
+        {
+            "data": {
+                "id": "802297",
+                "source": "31081",
+                "target": "23393",
+                "stringdb_score": 0.646
+            }
+        },
+        {
+            "data": {
+                "id": "258056",
+                "source": "16591",
+                "target": "16488",
+                "stringdb_score": 0.644
+            }
+        },
+        {
+            "data": {
+                "id": "257994",
+                "source": "16591",
+                "target": "13639",
+                "stringdb_score": 0.941
+            }
+        },
+        {
+            "data": {
+                "id": "257989",
+                "source": "16591",
+                "target": "2045",
+                "stringdb_score": 0.949
+            }
+        },
+        {
+            "data": {
+                "id": "257982",
+                "source": "16591",
+                "target": "13542",
+                "stringdb_score": 0.985
+            }
+        },
+        {
+            "data": {
+                "id": "257976",
+                "source": "16591",
+                "target": "7252",
+                "stringdb_score": 0.994
+            }
+        },
+        {
+            "data": {
+                "id": "257978",
+                "source": "16591",
+                "target": "7397",
+                "stringdb_score": 0.993
+            }
+        },
+        {
+            "data": {
+                "id": "688854",
+                "source": "28817",
+                "target": "13639",
+                "stringdb_score": 0.499
+            }
+        },
+        {
+            "data": {
+                "id": "688836",
+                "source": "28817",
+                "target": "13542",
+                "stringdb_score": 0.637
+            }
+        },
+        {
+            "data": {
+                "id": "688843",
+                "source": "28817",
+                "target": "7252",
+                "stringdb_score": 0.577
+            }
+        },
+        {
+            "data": {
+                "id": "688839",
+                "source": "28817",
+                "target": "27148",
+                "stringdb_score": 0.608
+            }
+        },
+        {
+            "data": {
+                "id": "255883",
+                "source": "16488",
+                "target": "13639",
+                "stringdb_score": 0.46
+            }
+        },
+        {
+            "data": {
+                "id": "255879",
+                "source": "16488",
+                "target": "2045",
+                "stringdb_score": 0.499
+            }
+        },
+        {
+            "data": {
+                "id": "255864",
+                "source": "16488",
+                "target": "13542",
+                "stringdb_score": 0.616
+            }
+        },
+        {
+            "data": {
+                "id": "255849",
+                "source": "16488",
+                "target": "7252",
+                "stringdb_score": 0.944
+            }
+        },
+        {
+            "data": {
+                "id": "784849",
+                "source": "30806",
+                "target": "2636",
+                "stringdb_score": 0.544
+            }
+        },
+        {
+            "data": {
+                "id": "784850",
+                "source": "30806",
+                "target": "17975",
+                "stringdb_score": 0.544
+            }
+        },
+        {
+            "data": {
+                "id": "784827",
+                "source": "30806",
+                "target": "3081",
+                "stringdb_score": 0.588
+            }
+        },
+        {
+            "data": {
+                "id": "591644",
+                "source": "26660",
+                "target": "23393",
+                "stringdb_score": 0.472
+            }
+        },
+        {
+            "data": {
+                "id": "591641",
+                "source": "26660",
+                "target": "16488",
+                "stringdb_score": 0.493
+            }
+        },
+        {
+            "data": {
+                "id": "591535",
+                "source": "26660",
+                "target": "21575",
+                "stringdb_score": 0.996
+            }
+        },
+        {
+            "data": {
+                "id": "684803",
+                "source": "28694",
+                "target": "7252",
+                "stringdb_score": 0.604
+            }
+        },
+        {
+            "data": {
+                "id": "684789",
+                "source": "28694",
+                "target": "28232",
+                "stringdb_score": 0.611
+            }
+        },
+        {
+            "data": {
+                "id": "684797",
+                "source": "28694",
+                "target": "28241",
+                "stringdb_score": 0.611
+            }
+        },
+        {
+            "data": {
+                "id": "684723",
+                "source": "28694",
+                "target": "13542",
+                "stringdb_score": 0.909
+            }
+        },
+        {
+            "data": {
+                "id": "684707",
+                "source": "28694",
+                "target": "16591",
+                "stringdb_score": 0.971
+            }
+        },
+        {
+            "data": {
+                "id": "684703",
+                "source": "28694",
+                "target": "13639",
+                "stringdb_score": 0.993
+            }
+        },
+        {
+            "data": {
+                "id": "684711",
+                "source": "28694",
+                "target": "2045",
+                "stringdb_score": 0.958
+            }
+        }
+    ]
+}

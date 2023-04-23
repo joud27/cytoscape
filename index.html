@@ -29,34 +29,27 @@
                     <div class="parameters border_blue">
                         <h2>Parameters</h2>
 
-                        <div id="conditions" class="border_green">
-                            <div class="checkbox_input">
-                                <input type="checkbox">
-                                <span>Condition a</span>
-                            </div>
-                            <div class="checkbox_input">
-                                <input type="checkbox">
-                                <span>Condition b</span>
-                            </div>
-                            <div class="checkbox_input">
-                                <input type="checkbox">
-                                <span>Condition c</span>
-                            </div>
+                        <div class="border_green">
+                            <select id="conditions">
+                            </select>
                         </div>
 
-                        <div id="p_values" class="border_green">
-                            <div class="checkbox_input">
-                                <input type="checkbox">
-                                <span>P-value / Condition a</span>
-                            </div>
-                            <div class="checkbox_input">
-                                <input type="checkbox">
-                                <span>P-value / Condition b</span>
-                            </div>
-                            <div class="checkbox_input">
-                                <input type="checkbox">
-                                <span>P-value / Condition c</span>
-                            </div>
+                        <div class="border_green">
+                            <select id="p_values">
+                            </select>
+                        </div>
+
+                        <div class="border_green">
+                            <select id="organism" disabled>
+                                <option value="plant" selected>Plant</option>
+                                <option value="human">Human</option>
+                            </select>
+                        </div>
+
+                        <div class="border_green">
+                            <select id="algorithm">
+                                <!-- <option value="abundance_group_control">abundance group control</option> -->
+                            </select>
                         </div>
 
                         <button class="left_button">Go</button>
@@ -73,6 +66,9 @@
                         </div>
                         <div class="lower_button">
                             <button>PDF Download</button>
+                        </div>
+                        <div class="lower_button">
+                            <button>JSON Download</button>
                         </div>
                     </div>
                 </td>

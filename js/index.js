@@ -33,6 +33,8 @@ document.getElementById('json_input_file').addEventListener('change', function (
 
 function process_data(allNetwork) {
 
+    let checkedIfHuman = false;
+
     let nodes = allNetwork.nodes;
     let edges = allNetwork.edges;
 
@@ -50,17 +52,20 @@ function process_data(allNetwork) {
             let node_data_parent = node_data.parent;
             let node_data_codeBP = node_data.codeBP;
 
-
             getConditionsAndPValues(node_data);
 
             let node_position_x = node_position.x;
             let node_position_y = node_position.y;
 
-
+            if (!checkedIfHuman) {
+                if (node_data.tissue_skin) {
+                    changeOrganism("human");
+                } else {
+                    changeOrganism("plant");
+                }
+                checkedIfHuman = true;
+            }
         }
-
-
-
     }
 
     for (var i = 0; i < edges.length; i++) {
@@ -70,7 +75,6 @@ function process_data(allNetwork) {
         let edge_data_source = edge_data.source;
         let edge_data_target = edge_data.target;
         let edge_data_stringdb_score = edge_data.stringdb_score;
-
 
     }
 }

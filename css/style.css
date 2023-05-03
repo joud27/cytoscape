@@ -28,7 +28,7 @@ table {
 
 #everything {
     width: 100%;
-    height: 100%;
+    /*height: 100%;*/
     margin: 0;
 }
 
@@ -42,6 +42,7 @@ table {
 
 .left {
     width: 25%;
+    vertical-align: top;
 }
 
 .right {
@@ -61,13 +62,33 @@ table {
 }
 
 #graph {
-    height: 60%;
+    /*height: 60%;*/
+    height: 300px;
 }
 
 #legend {
-    height: 20%;
+    height: 100px;
 }
 
 #lower_buttons {
     height: 5%;
+}
+
+.lengend-parts-1 {
+    width: 15%;
+}
+
+.lengend-parts,
+.lengend-parts-1 {
+    float: left;
+    text-align: left;
+    margin: 0px;
+}
+
+.lengend-parts-2 {
+    width: 23%;
+}
+
+#range-img {
+    width: 100%;
 }
